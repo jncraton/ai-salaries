@@ -100,9 +100,20 @@ Tasks
 Create a Python program that will output the following information:
 
 1. The total number of salaries in the file (remember not to include the header row)
-2. The average (mean) salary for entry-level data scientists in 2023
-3. The average (mean) salary for all mid-level data scientists in 2023
+2. The average (mean) salary for entry-level positions in 2023
+3. The average (mean) salary for entry-level positions in 2023 with a Data Scientist Title
 4. The highest salary for a fully remote, entry-level position
+5. The average (mean) salary for all mid-level data scientists in 2023
+
+Here is roughly what the program should output when run:
+
+```
+There are 200 salaries in the file
+Entry-level mean salary: $106k
+Entry-level mean salary for Data Scientist job title: $118k
+Mid-level mean salary: $133k
+Highest entry-level remote salary: $162k
+```
 
 Resources
 ---------
