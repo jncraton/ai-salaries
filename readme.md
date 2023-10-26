@@ -54,12 +54,9 @@ The following data dictionary is provided to understand the meaning of the under
 8. company_size
     The average number of people that worked for the company during the year:
 
-    S
-        less than 50 employees (small)
-    M
-        50 to 250 employees (medium)
-    L
-        more than 250 employees (large) 
+    S        less than 50 employees (small)
+    M        50 to 250 employees (medium)
+    L        more than 250 employees (large)
 ```
 
 Note that the data provided with this project is a subset of the larger data download that includes only full-time, entry-level jobs for 2023 in the United States.
