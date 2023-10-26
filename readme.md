@@ -10,7 +10,7 @@ This project provides and exploration of salaries in AI, ML, and data science fi
 Data
 ----
 
-The following data dictionary is provided to understand the meaning of the underlying data. Note that the dataset provided with this assignment is a subset of a [larger dataset](https://ai-jobs.net/salaries/download/).
+The following data dictionary is provided to understand the meaning of the underlying data. Note that the dataset ([salaries.csv](salaries.csv)) provided with this assignment is a subset of a [larger dataset](https://ai-jobs.net/salaries/download/).
 
 ```
 0. work_year
