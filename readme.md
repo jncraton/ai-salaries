@@ -1,7 +1,7 @@
-Data Scientist Salaries
-=======================
+AI Salaries
+===========
 
-This project provides and exploration of entry-level data scientist salaries. Salary data comes from ai-jobs.net. After completing this assignment, students will be able to:
+This project provides and exploration of salaries in AI, ML, and data science fields. Salary data comes from [ai-jobs.net](https://ai-jobs.net/). After completing this assignment, students will be able to:
 
 1. Access data from CSV files using the `csv` module
 2. Work with data stored in nested lists
@@ -19,26 +19,18 @@ The following data dictionary is provided to understand the meaning of the under
 1. experience_level
     The experience level in the job during the year with the following possible values:
 
-    EN
-        Entry-level / Junior
-    MI
-        Mid-level / Intermediate
-    SE
-        Senior-level / Expert
-    EX
-        Executive-level / Director
+    EN        Entry-level / Junior
+    MI        Mid-level / Intermediate
+    SE        Senior-level / Expert
+    EX        Executive-level / Director
 
 2. employment_type
     The type of employement for the role:
 
-    PT
-        Part-time
-    FT
-        Full-time
-    CT
-        Contract
-    FL
-        Freelance
+    PT        Part-time
+    FT        Full-time
+    CT        Contract
+    FL        Freelance
 
 3. job_title
     The role worked in during the year.
@@ -52,12 +44,9 @@ The following data dictionary is provided to understand the meaning of the under
 6. remote_ratio
     The overall amount of work done remotely, possible values are as follows:
 
-    0
-        No remote work (less than 20%)
-    50
-        Partially remote/hybird
-    100
-        Fully remote (more than 80%) 
+    0        No remote work (less than 20%)
+    50        Partially remote/hybird
+    10        Fully remote (more than 80%)
 
 7. company_location
     The country of the employer's main office or contracting branch as an ISO 3166 country code.
