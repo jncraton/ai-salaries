@@ -10,7 +10,7 @@ This project provides and exploration of salaries in AI, ML, and data science fi
 Data
 ----
 
-The following data dictionary is provided to understand the meaning of the underlying data. Note that the dataset ([salaries.csv](salaries.csv)) provided with this assignment is a subset of a [larger dataset](https://ai-jobs.net/salaries/download/).
+The following data dictionary is provided to understand the meaning of the underlying data. Note that the dataset ([salaries.csv](salaries.csv)) provided with this assignment is a subset of a [larger dataset](https://ai-jobs.net/salaries/download/). It includes only a sample of full-time, entry-level and mid-level jobs for 2023 in the United States.
 
 ```
 0. work_year
@@ -58,8 +58,6 @@ The following data dictionary is provided to understand the meaning of the under
     M        50 to 250 employees (medium)
     L        more than 250 employees (large)
 ```
-
-Note that the data provided with this project is a subset of the larger data download that includes only full-time, entry-level jobs for 2023 in the United States.
 
 CSV Module
 ----------
