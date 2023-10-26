@@ -1,20 +1,11 @@
-import csv
-import requests
+import pandas
 
-download = requests.get("https://ai-jobs.net/salaries/download/salaries.csv")
+df = pandas.read_csv("https://ai-jobs.net/salaries/download/salaries.csv")
 
-decoded_content = download.content.decode('utf-8')
+df = df[(df.work_year == 2023) & (df.company_location == 'US') & (df.employment_type == 'FT') & (df.experience_level.isin(['EN', 'MI']))]
 
-with open('salaries.csv', 'w') as outcsv:
-    writer = None
+df = df.groupby('experience_level').apply(lambda x: x.sample(n=100)).reset_index(drop=True)
 
-    for row in csv.DictReader(decoded_content.splitlines(), delimiter=','):
-        if not writer:
-            writer = csv.DictWriter(outcsv, fieldnames = row.keys())
-            writer.writeheader()
-            
-        if row['work_year'] == '2023'  and row['company_location'] == 'US' and row['employment_type'] == 'FT' and row['experience_level'] in ('EN', 'MI'):
-            writer.writerow(row)
+df = df.drop(["salary", "salary_currency"], axis=1)
 
-print(f"Downloaded complete")
-
+df.to_csv("salaries.csv", index=False)
