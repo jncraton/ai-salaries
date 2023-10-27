@@ -106,3 +106,4 @@ The following resources may help you to complete this assignment:
 
 - [Python CSV module documentation](https://docs.python.org/3/library/csv.html)
 - [PY4E Chapter 8: Lists](https://www.py4e.com/html3/08-lists)
+- Functions such as [sum](https://docs.python.org/3/library/functions.html#sum) and [len](https://docs.python.org/3/library/functions.html#len)
