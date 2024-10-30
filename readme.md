@@ -1,7 +1,12 @@
 AI Salaries
 ===========
 
-This project provides and exploration of salaries in AI, ML, and data science fields. Salary data comes from [ai-jobs.net](https://ai-jobs.net/). After completing this assignment, students will be able to:
+This project provides and exploration of salaries in AI, ML, and data science fields. Salary data comes from [ai-jobs.net](https://ai-jobs.net/).
+
+Learning Objectives
+-------------------
+
+After completing this assignment, students will be able to:
 
 1. Access data from CSV files using the `csv` module
 2. Work with data stored in nested lists
