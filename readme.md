@@ -15,7 +15,7 @@ After completing this assignment, students will be able to:
 Data
 ----
 
-The following data dictionary is provided to understand the meaning of the underlying data. Note that the dataset ([salaries.csv](salaries.csv)) provided with this assignment is a subset of a [larger dataset](https://ai-jobs.net/salaries/download/). It includes only a sample of full-time, entry-level and mid-level jobs for 2023 in the United States.
+The following data dictionary is provided to understand the meaning of the underlying data. Note that the dataset ([salaries.csv](salaries.csv)) provided with this assignment is a subset of a [larger dataset](https://ai-jobs.net/salaries/download/). It includes only a sample of full-time, entry-level and mid-level jobs for 2024 in the United States.
 
 ```
 0. work_year
