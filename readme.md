@@ -93,10 +93,10 @@ Here is roughly what the program should output when run:
 
 ```
 There are 200 salaries in the file
-Entry-level mean salary: $106k
-Entry-level mean salary for Data Scientist job title: $118k
-Highest entry-level remote salary: $162k
-Mid-level mean salary: $133k
+Entry-level mean salary: $111k
+Entry-level mean salary for Data Scientist job title: $121k
+Highest entry-level remote salary: $177k
+Mid-level mean salary: $166k
 ```
 
 Resources
