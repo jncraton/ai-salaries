@@ -1,7 +1,7 @@
 import csv
 
 with open("salaries.csv") as csvfile:
-    rows = list(csv.reader(csvfile))
+    rows = list(csv.reader(csvfile))[1:]
 
     # `rows` is now a list of lists containing the rows of the CSV
 
