@@ -67,7 +67,7 @@ The following data dictionary is provided to understand the meaning of the under
 CSV Module
 ----------
 
-The CSV module can be used to read rows from a CSV file as lists. This is demonstrated in the handout code in [salaries.py](salaries.py]. This is the recommended starting point for reading data from [salaries.csv](salaries.csv).
+The CSV module can be used to read rows from a CSV file as lists. This is demonstrated in the handout code in [salaries.py](salaries.py). This is the recommended starting point for reading data from [salaries.csv](salaries.csv).
 
 Tasks
 -----
