@@ -67,21 +67,7 @@ The following data dictionary is provided to understand the meaning of the under
 CSV Module
 ----------
 
-The CSV module can be used to read rows from a CSV file as lists. It is recommend to use the following method to read data for this project:
-
-```python
-import csv
-
-with open("salaries.csv") as csvfile:
-    rows = list(csv.reader(csvfile))
-
-    # `rows` is now a list of lists containing the rows of the CSV
-
-    # For example
-
-    # rows[0] is the first row of the file
-    # rows[0][0] is the first value in the first row
-```
+The CSV module can be used to read rows from a CSV file as lists. This is demonstrated in the handout code in [salaries.py](salaries.py]. This is the recommended starting point for reading data from [salaries.csv](salaries.csv).
 
 Tasks
 -----
