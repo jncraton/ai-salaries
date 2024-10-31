@@ -93,6 +93,7 @@ Create a Python program that will output the following information:
 3. The average (mean) salary for entry-level positions with a Data Scientist Title
 4. The highest salary for a fully remote, entry-level position
 5. The average (mean) salary for all mid-level positions
+6. A descriptive statistic of your choice calculated from this dataset
 
 Here is roughly what the program should output when run:
 
@@ -102,6 +103,7 @@ Entry-level mean salary: $111k
 Entry-level mean salary for Data Scientist job title: $121k
 Highest entry-level remote salary: $177k
 Mid-level mean salary: $166k
+{A descriptive statistic of your choice}
 ```
 
 Resources

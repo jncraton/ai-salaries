@@ -21,3 +21,5 @@ with open("salaries.csv") as csvfile:
     # 4. The highest salary for a fully remote, entry-level position
 
     # 5. The average (mean) salary for all mid-level positions
+
+    # 6. A descriptive statistic of your choice calculated from this dataset
