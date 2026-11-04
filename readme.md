@@ -37,20 +37,20 @@ Tasks
 Create a Python program that will output the following information:
 
 1. The total number of salaries in the file (remember not to include the header row)
-2. The average (mean) salary for entry-level positions
-3. The average (mean) salary for entry-level positions with a Data Scientist Title
-4. The highest salary for a fully remote, entry-level position
-5. The average (mean) salary for all mid-level positions
+2. The average (mean) salary for all positions
+3. The average (mean) salary for "Data scientist" positions
+4. The highest salary for a fully remote, position with less than 3 years of experience
+5. The average (mean) salary for all positions with at least 10 years of experience
 6. A descriptive statistic of your choice calculated from this dataset
 
 Here is roughly what the program should output when run:
 
 ```
-There are 200 salaries in the file
-Entry-level mean salary: $111k
-Entry-level mean salary for Data Scientist job title: $121k
-Highest entry-level remote salary: $177k
-Mid-level mean salary: $166k
+There are 2611 salaries in the file
+Mean salary: 193k
+Mean salary for Data scientists: 158k
+Highest entry-level remote salary: 190k
+Mean mid-level salary: 218k
 {A descriptive statistic of your choice}
 ```
 

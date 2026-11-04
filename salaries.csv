@@ -1,201 +1,2612 @@
-work_year,experience_level,employment_type,job_title,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
-2024,EN,FT,Data Scientist,137000,US,0,US,M
-2024,EN,FT,Data Analyst,57737,US,100,US,M
-2024,EN,FT,Data Engineer,177880,US,0,US,L
-2024,EN,FT,Research Analyst,90000,US,0,US,M
-2024,EN,FT,Consultant,118500,US,0,US,M
-2024,EN,FT,Data Analyst,110400,US,100,US,M
-2024,EN,FT,Data Analyst,112000,US,0,US,M
-2024,EN,FT,Data Analyst,52500,US,0,US,M
-2024,EN,FT,Machine Learning Engineer,145000,US,0,US,M
-2024,EN,FT,Data Specialist,31000,US,100,US,M
-2024,EN,FT,Data Analyst,170500,US,0,US,M
-2024,EN,FT,Data Scientist,125500,US,0,US,M
-2024,EN,FT,Data Analyst,85000,US,0,US,M
-2024,EN,FT,Data Analyst,93500,US,100,US,M
-2024,EN,FT,Data Analyst,90000,US,0,US,M
-2024,EN,FT,Research Scientist,337250,US,0,US,M
-2024,EN,FT,Data Reporting Analyst,50200,US,0,US,M
-2024,EN,FT,Data Analyst,82000,US,0,US,M
-2024,EN,FT,Business Intelligence Analyst,101080,US,0,US,M
-2024,EN,FT,Software Engineer,139650,US,0,US,M
-2024,EN,FT,Data Engineer,175100,US,0,US,M
-2024,EN,FT,DevOps Engineer,129792,US,0,US,M
-2024,EN,FT,Data Analyst,61560,US,0,US,M
-2024,EN,FT,Business Intelligence Analyst,140000,US,0,US,M
-2024,EN,FT,Business Intelligence Analyst,67000,US,100,US,M
-2024,EN,FT,Applied Scientist,174600,US,0,US,M
-2024,EN,FT,Data Analyst,172000,US,0,US,M
-2024,EN,FT,Data Analyst,80080,US,0,US,M
-2024,EN,FT,Data Scientist,154000,US,100,US,M
-2024,EN,FT,Analyst,114000,US,0,US,M
-2024,EN,FT,Data Analyst,120700,US,100,US,M
-2024,EN,FT,Data Analyst,110864,US,0,US,M
-2024,EN,FT,Machine Learning Engineer,104500,US,0,US,M
-2024,EN,FT,Business Analyst,65000,US,100,US,M
-2024,EN,FT,Machine Learning Engineer,68405,US,100,US,M
-2024,EN,FT,Software Developer,44000,US,0,US,M
-2024,EN,FT,Data Analyst,132673,US,0,US,M
-2024,EN,FT,Site Reliability Engineer,276000,US,0,US,M
-2024,EN,FT,Data Analyst,59976,US,0,US,M
-2024,EN,FT,Data Analyst,70000,US,0,US,M
-2024,EN,FT,Data Scientist,44850,US,100,US,M
-2024,EN,FT,Machine Learning Engineer,129960,US,0,US,M
-2024,EN,FT,Software Engineer,144000,US,0,US,M
-2024,EN,FT,Business Intelligence Analyst,63444,US,0,US,M
-2024,EN,FT,Data Analyst,150200,US,0,US,M
-2024,EN,FT,Software Engineer,39500,US,0,US,M
-2024,EN,FT,Research Analyst,300000,US,0,US,M
-2024,EN,FT,Data Analyst,98000,US,100,US,M
-2024,EN,FT,Data Analyst,80000,US,0,US,M
-2024,EN,FT,Data Analyst,92000,US,100,US,M
-2024,EN,FT,Data Analyst,70000,US,100,US,M
-2024,EN,FT,Machine Learning Engineer,137750,US,0,US,M
-2024,EN,FT,Data Analyst,77000,US,0,US,M
-2024,EN,FT,Data Reporting Analyst,59513,US,0,US,M
-2024,EN,FT,Analyst,50000,US,0,US,M
-2024,EN,FT,Data Scientist,135000,US,0,US,M
-2024,EN,FT,Data Analyst,64600,US,0,US,M
-2024,EN,FT,Data Scientist,86200,US,0,US,M
-2024,EN,FT,Data Analyst,172000,US,0,US,M
-2024,EN,FT,Research Scientist,81075,US,0,US,M
-2024,EN,FT,Data Scientist,110000,US,0,US,M
-2024,EN,FT,Business Analyst,120037,US,0,US,M
-2024,EN,FT,Data Analyst,84000,US,0,US,M
-2024,EN,FT,Business Intelligence Developer,145200,US,100,US,M
-2024,EN,FT,Software Engineer,106590,US,0,US,M
-2024,EN,FT,Product Manager,39500,US,0,US,M
-2024,EN,FT,Machine Learning Engineer,237500,US,0,US,M
-2024,EN,FT,Business Intelligence Analyst,106400,US,0,US,M
-2024,EN,FT,Data Scientist,175100,US,0,US,M
-2024,EN,FT,Research Analyst,57000,US,100,US,M
-2024,EN,FT,Engineer,264200,US,0,US,M
-2024,EN,FT,Research Analyst,80000,US,0,US,M
-2024,EN,FT,Business Intelligence Analyst,94350,US,0,US,M
-2024,EN,FT,Data Analyst,150000,US,0,US,M
-2024,EN,FT,Data Analyst,150000,US,100,US,M
-2024,EN,FT,Data Analyst,90000,US,100,US,M
-2024,EN,FT,Data Analyst,60000,US,0,US,M
-2024,EN,FT,Data Analyst,140800,US,0,US,M
-2024,EN,FT,Data Analyst,66900,US,0,US,M
-2024,EN,FT,Data Analyst,88200,US,100,US,M
-2024,EN,FT,Software Engineer,96000,US,0,US,M
-2024,EN,FT,Data Analyst,60000,US,0,US,M
-2024,EN,FT,Machine Learning Engineer,112000,US,0,US,M
-2024,EN,FT,Data Analyst,177076,US,100,US,M
-2024,EN,FT,Machine Learning Engineer,110000,US,0,US,M
-2024,EN,FT,Software Engineer,82000,US,0,US,M
-2024,EN,FT,Analyst,65000,US,0,US,M
-2024,EN,FT,Data Reporting Analyst,43920,US,0,US,M
-2024,EN,FT,Data Analyst,111894,US,0,US,M
-2024,EN,FT,Data Analyst,166600,US,0,US,M
-2024,EN,FT,Consultant,71800,US,0,US,M
-2024,EN,FT,Data Analyst,49400,US,0,US,M
-2024,EN,FT,BI Analyst,90000,US,100,US,M
-2024,EN,FT,Data Analyst,129000,US,0,US,M
-2024,EN,FT,Data Analyst,83940,US,100,US,M
-2024,EN,FT,Data Governance Analyst,118765,US,100,US,M
-2024,EN,FT,Data Analyst,49148,US,100,US,M
-2024,EN,FT,Data Analyst,165700,US,0,US,M
-2024,EN,FT,Data Engineer,106000,US,0,US,M
-2024,EN,FT,Data Analyst,140000,US,0,US,M
-2024,MI,FT,Engineer,122000,US,0,US,M
-2024,MI,FT,Software Engineer,96400,US,0,US,M
-2024,MI,FT,Data Scientist,110000,US,100,US,M
-2024,MI,FT,Data Scientist,172000,US,0,US,M
-2024,MI,FT,Data Scientist,135000,US,100,US,M
-2024,MI,FT,Research Scientist,177000,US,0,US,M
-2024,MI,FT,BI Developer,104960,US,0,US,M
-2024,MI,FT,Data Engineer,100000,US,100,US,M
-2024,MI,FT,Data Engineer,180000,US,100,US,M
-2024,MI,FT,Applied Scientist,136000,US,0,US,L
-2024,MI,FT,Data Engineer,98300,US,0,US,M
-2024,MI,FT,Software Engineer,297000,US,0,US,M
-2024,MI,FT,Engineer,100000,US,0,US,M
-2024,MI,FT,Manager,300000,US,0,US,M
-2024,MI,FT,Software Engineer,276000,US,0,US,M
-2024,MI,FT,Software Engineer,95000,US,0,US,M
-2024,MI,FT,Data Analyst,55000,US,100,US,M
-2024,MI,FT,Applied Scientist,136000,US,0,US,L
-2024,MI,FT,Data Engineer,209000,US,0,US,M
-2024,MI,FT,Data Scientist,99700,US,0,US,M
-2024,MI,FT,Software Engineer,147200,US,0,US,M
-2024,MI,FT,Data Scientist,120000,US,100,US,M
-2024,MI,FT,Data Scientist,211000,US,0,US,M
-2024,MI,FT,Applied Scientist,98300,US,0,US,M
-2024,MI,FT,Analyst,137000,US,0,US,M
-2024,MI,FT,Backend Engineer,164200,US,100,US,M
-2024,MI,FT,Engineer,182000,US,0,US,M
-2024,MI,FT,AI Developer,141400,US,0,US,M
-2024,MI,FT,Software Engineer,145900,US,0,US,M
-2024,MI,FT,Data Scientist,127000,US,0,US,M
-2024,MI,FT,Data Engineer,178090,US,100,US,M
-2024,MI,FT,Business Intelligence Engineer,172000,US,0,US,M
-2024,MI,FT,Site Reliability Engineer,194750,US,0,US,M
-2024,MI,FT,Data Engineer,105700,US,0,US,L
-2024,MI,FT,Data Governance Analyst,87607,US,0,US,M
-2024,MI,FT,Data Scientist,75600,US,0,US,M
-2024,MI,FT,Manager,530000,US,0,US,M
-2024,MI,FT,Data Scientist,154660,US,0,US,M
-2024,MI,FT,Software Engineer,90950,US,0,US,M
-2024,MI,FT,Data Product Manager,246400,US,0,US,M
-2024,MI,FT,Data Scientist,395000,US,0,US,M
-2024,MI,FT,AI Engineer,212000,US,0,US,M
-2024,MI,FT,Data Analyst,260000,US,0,US,M
-2024,MI,FT,Data Engineer,124700,US,0,US,M
-2024,MI,FT,Associate,91665,US,0,US,M
-2024,MI,FT,Software Engineer,112500,US,0,US,M
-2024,MI,FT,Machine Learning Engineer,130000,US,0,US,M
-2024,MI,FT,Associate,189000,US,0,US,M
-2024,MI,FT,Associate,115800,US,0,US,M
-2024,MI,FT,Engineer,143100,US,0,US,M
-2024,MI,FT,Software Engineer,160000,US,0,US,M
-2024,MI,FT,Data Scientist,150000,US,0,US,M
-2024,MI,FT,Manager,110000,US,0,US,M
-2024,MI,FT,Data Scientist,173000,US,0,US,M
-2024,MI,FT,Engineer,252000,US,0,US,M
-2024,MI,FT,Engineer,235000,US,0,US,M
-2024,MI,FT,Full Stack Developer,138000,US,0,US,L
-2024,MI,FT,Engineer,162000,US,0,US,M
-2024,MI,FT,Machine Learning Engineer,143100,US,0,US,M
-2024,MI,FT,Data Engineer,169000,US,0,US,M
-2024,MI,FT,Data Specialist,114400,US,0,US,M
-2024,MI,FT,Product Manager,156864,US,0,US,M
-2024,MI,FT,Software Engineer,240240,US,0,US,M
-2024,MI,FT,Software Engineer,185495,US,0,US,M
-2024,MI,FT,Associate,75000,US,0,US,M
-2024,MI,FT,Data Engineer,246552,US,0,US,M
-2024,MI,FT,Software Engineer,200000,US,0,US,M
-2024,MI,FT,Data Engineer,469000,US,0,US,M
-2024,MI,FT,AI Developer,185000,US,0,US,M
-2024,MI,FT,Research Engineer,173000,US,0,US,M
-2024,MI,FT,Cloud Database Engineer,88125,US,100,US,M
-2024,MI,FT,Software Engineer,200200,US,0,US,M
-2024,MI,FT,Product Manager,175000,US,0,US,M
-2024,MI,FT,Engineer,187000,US,0,US,M
-2024,MI,FT,Associate,55000,US,100,US,M
-2024,MI,FT,Research Scientist,178360,US,0,US,M
-2024,MI,FT,Analytics Engineer,100000,US,100,US,M
-2024,MI,FT,Research Scientist,122200,US,0,US,M
-2024,MI,FT,Associate,106500,US,0,US,M
-2024,MI,FT,Data Scientist,201400,US,0,US,M
-2024,MI,FT,AI Engineer,75600,US,0,US,M
-2024,MI,FT,Data Scientist,165500,US,0,US,M
-2024,MI,FT,Manager,187000,US,0,US,L
-2024,MI,FT,Data Analyst,95000,US,0,US,M
-2024,MI,FT,Associate,247610,US,0,US,M
-2024,MI,FT,Data Scientist,272700,US,100,US,M
-2024,MI,FT,Data Specialist,68500,US,100,US,M
-2024,MI,FT,Associate,134198,US,0,US,M
-2024,MI,FT,Machine Learning Engineer,194000,US,0,US,M
-2024,MI,FT,Data Analytics Manager,144640,US,0,US,M
-2024,MI,FT,Associate,175000,US,0,US,M
-2024,MI,FT,Software Engineer,186000,US,0,US,M
-2024,MI,FT,Data Engineer,73000,US,0,US,M
-2024,MI,FT,Data Scientist,220000,US,0,US,M
-2024,MI,FT,Prompt Engineer,240960,US,0,US,M
-2024,MI,FT,AI Engineer,166000,US,0,US,M
-2024,MI,FT,Software Engineer,225000,US,0,US,M
-2024,MI,FT,Business Intelligence Engineer,185000,US,0,US,L
-2024,MI,FT,Software Engineer,176386,US,0,US,M
-2024,MI,FT,Manager,100000,US,100,US,M
+Role,WorkSetting,WorkExp,Industry,JobSat,Compensation
+Developer,Remote,26,Government,9,195000
+Architect,Remote,28,Retail,8,184000
+Software engineer,Remote,16,IT services,4,300000
+Senior executive,Hybrid,23,Healthcare,10,250000
+Developer,Remote,11,Other,3,106000
+Developer,In-person,11,Other,5,80000
+Developer,Hybrid,9,Utilities,10,77000
+Developer,Your choice,40,Software development,2,150000
+Developer,Remote,28,Software development,9,184000
+Developer,Hybrid,13,Software development,8,410000
+Developer,Hybrid,10,Government,10,250000
+Architect,Hybrid,22,Government,7,105000
+Developer,Hybrid,21,Scientific research,7,85500
+Academic researcher,Hybrid,13,Scientific research,7,80000
+Developer,Remote,10,Fintech,9,175000
+Architect,Hybrid,7,IT services,6,150000
+Cybersecurity or InfoSec professional,Remote,8,IT services,0,178000
+Developer,Remote,30,Fintech,4,150000
+Developer,Your choice,11,Transportation or supply chain,10,120000
+Developer,Hybrid,1,Healthcare,8,82000
+Architect,Hybrid,15,Banking/financial services,7,155000
+System administrator,Your choice,23,Insurance,9,124000
+Developer,Remote,19,Utilities,5,103500
+Developer,Hybrid,13,Software development,8,400000
+Developer,Your choice,7,Healthcare,5,80000
+Hardware engineer,Hybrid,25,Other,8,210000
+Developer,Hybrid,18,IT services,8,150000
+Solutions engineer,Remote,32,Transportation or supply chain,3,210000
+Solutions engineer,Remote,30,Healthcare,10,143000
+Engineering manager,Remote,32,Software development,10,246100
+Developer,In-person,8,Software development,8,110000
+Software engineer,Hybrid,32,Software development,9,300000
+Developer,In-person,4,Engineering services or applied R&D,6,85900
+Developer,Hybrid,3,Media or advertising services,10,104000
+Developer,In-person,10,Other,10,415000
+Academic researcher,In-person,22,Education,10,100000
+Architect,Your choice,4,IT services,7,120000
+Developer,Remote,32,Software development,8,175000
+Software engineer,Remote,15,Life sciences or biotechnology,6,135000
+Architect,Remote,41,Software development,6,275000
+Data or business analyst,Hybrid,28,Banking/financial services,8,150000
+Developer,Remote,28,IT services,8,202000
+Cybersecurity or InfoSec professional,Remote,20,IT services,7,135000
+Developer,Remote,10,Insurance,5,130000
+Senior executive,Your choice,11,IT services,2,252000
+Developer,In-person,15,Manufacturing,10,90000
+Developer,Remote,20,Energy,6,100000
+Developer,Remote,29,Broadcasting or publishing,9,150000
+Developer,Remote,30,Manufacturing,9,104000
+Solutions engineer,Hybrid,13,IT services,6,105000
+Developer,Your choice,31,Retail,9,167000
+Developer,Remote,27,IT services,8,210000
+Cloud infrastructure engineer,Your choice,15,Government,7,171000
+Developer,Remote,21,Healthcare,4,140000
+Project manager,Hybrid,28,IT services,4,500000
+Database administrator or engineer,Remote,27,IT services,7,280000
+Developer,Hybrid,35,Other,8,300000
+Site reliability engineer,Hybrid,2,IT services,4,85000
+Data engineer,Remote,16,Retail,2,310000
+Software engineer,Your choice,31,Scientific research,10,130000
+Data engineer,In-person,4,Insurance,9,140000
+Project manager,Remote,22,IT services,5,140000
+Architect,Remote,21,Hospitality or travel,8,280000
+Developer,Remote,40,Banking/financial services,7,155000
+DevOps engineer or professional,Remote,20,Education,10,190000
+AI/ML engineer,Remote,26,Software development,8,265000
+Engineering manager,Your choice,21,Utilities,10,230000
+Senior executive,Hybrid,11,Software development,9,120000
+Developer,In-person,51,Healthcare,9,100000
+Developer,Remote,32,Media or advertising services,7,120000
+Developer,Remote,38,Life sciences or biotechnology,8,181000
+Developer,Remote,15,Other,3,170000
+Developer,Hybrid,10,Software development,9,200000
+Developer,Hybrid,20,Software development,8,200000
+Developer,Remote,22,Media or advertising services,3,275000
+Developer,Remote,43,Engineering services or applied R&D,10,200000
+Developer,Your choice,23,Fintech,8,200000
+Founder or entrepreneur,Remote,22,Hospitality or travel,7,275000
+Developer,In-person,30,Scientific research,8,170000
+Developer,Remote,8,Software development,5,156000
+Developer,Hybrid,20,Banking/financial services,10,115000
+Developer,Hybrid,23,IT services,7,150000
+Architect,Remote,45,Broadcasting or publishing,8,250000
+Developer,In-person,15,Utilities,10,100000
+Developer,Hybrid,10,Manufacturing,9,500000
+Developer,Hybrid,15,Healthcare,8,152000
+Developer,Remote,20,Software development,6,310000
+Developer,Hybrid,9,Fintech,8,110000
+AI/ML engineer,Remote,11,Media or advertising services,5,500000
+Developer,Your choice,40,Banking/financial services,8,165000
+Developer,Remote,8,Other,9,187000
+Developer,Remote,19,Media or advertising services,8,440000
+Educator or instructor,Hybrid,13,Education,8,97760
+DevOps engineer or professional,Remote,18,Fintech,1,190000
+Product manager,Remote,18,Hospitality or travel,10,200000
+Developer,Remote,8,Other,8,160000
+Developer,Remote,19,Software development,4,122000
+Developer,Remote,22,Other,10,189000
+Founder or entrepreneur,Hybrid,15,Software development,9,225000
+Developer,Remote,54,Retail,8,120000
+Developer,Remote,6,Insurance,7,120000
+Engineering manager,Remote,22,Software development,5,193000
+Architect,Remote,16,Software development,6,156000
+Developer,Remote,35,Healthcare,5,190000
+Developer,Hybrid,11,Utilities,8,209000
+Developer,Remote,15,Media or advertising services,4,350000
+Developer,Your choice,23,Education,8,155000
+DevOps engineer or professional,Remote,8,IT services,0,300000
+Developer,Remote,11,Hospitality or travel,8,215000
+Senior executive,Remote,30,Software development,10,400000
+Developer,Your choice,7,Other,7,69000
+Developer,In-person,22,Scientific research,8,134666
+Developer,Remote,11,Other,3,115000
+Software engineer,Remote,6,Software development,8,175000
+Developer,Your choice,17,Software development,7,175000
+Developer,Your choice,55,Scientific research,10,250000
+Cybersecurity or InfoSec professional,Remote,40,IT services,7,190000
+Cybersecurity or InfoSec professional,Your choice,7,Government,10,148000
+Data scientist,Remote,14,Retail,8,193000
+Developer,Remote,22,Insurance,8,225000
+Data or business analyst,Remote,17,Fintech,9,65000
+Data engineer,Remote,20,Software development,6,275000
+Engineering manager,Remote,20,Fintech,8,240000
+Developer,Hybrid,35,Manufacturing,7,130000
+Developer,Hybrid,4,Engineering services or applied R&D,9,73000
+Developer,Remote,9,Software development,8,65000
+Developer,Hybrid,29,Media or advertising services,5,240000
+Developer,Remote,10,Other,4,109000
+Developer,Hybrid,18,Government,5,130000
+Architect,Hybrid,26,IT services,2,140000
+Developer,In-person,14,Retail,9,89440
+DevOps engineer or professional,Remote,33,Government,5,140000
+Engineering manager,Remote,38,Retail,8,195000
+Architect,Remote,15,Manufacturing,9,170000
+Product manager,Remote,31,Banking/financial services,4,200000
+Developer,Hybrid,11,Education,8,110000
+Developer,Hybrid,8,Software development,8,100100
+Engineering manager,Your choice,25,IT services,9,180000
+Developer,Remote,9,Healthcare,6,185000
+Architect,Hybrid,35,Utilities,8,200000
+Developer,In-person,9,Agriculture,7,75000
+Developer,Your choice,26,Government,10,164000
+Developer,Remote,11,Insurance,9,200000
+Developer,Hybrid,9,Mining or construction,9,106000
+Developer,Hybrid,2,Mining or construction,5,40000
+Developer,Remote,16,IT services,3,155000
+Data scientist,In-person,3,Education,10,90000
+Developer,Remote,5,Utilities,7,84000
+Data or business analyst,Remote,10,Non-profit or social services,9,75000
+Developer,Remote,24,Software development,8,220000
+Project manager,In-person,7,Other,4,41600
+Developer,In-person,4,Manufacturing,8,106000
+Developer,Hybrid,4,Manufacturing,10,90000
+Developer,Remote,32,Media or advertising services,9,200000
+Developer,Remote,6,Media or advertising services,10,120000
+Project manager,Hybrid,20,Retail,10,120000
+Developer,Remote,21,Education,7,115000
+Developer,Remote,41,Utilities,10,135000
+Senior executive,Hybrid,14,Transportation or supply chain,8,240000
+Developer,Hybrid,16,Software development,6,198000
+Platform engineer,Remote,20,Other,5,600000
+Developer,Remote,13,Utilities,7,100000
+Developer,Remote,14,Insurance,9,106000
+Developer,Hybrid,26,Healthcare,10,187000
+Developer,Hybrid,41,Government,5,145000
+Developer,Remote,8,Manufacturing,1,49000
+Developer,In-person,44,Manufacturing,8,170000
+Developer,Remote,12,Software development,5,250000
+Developer,Remote,2,Software development,8,80000
+Developer,Remote,11,Non-profit or social services,4,218000
+Engineering manager,Remote,11,Banking/financial services,10,316000
+Developer,Remote,30,Other,7,185000
+Developer,Remote,11,Software development,7,280000
+Architect,Remote,24,Engineering services or applied R&D,7,300000
+Academic researcher,Remote,25,Education,10,150000
+System administrator,In-person,6,IT services,9,54600
+Developer,Remote,20,Other,8,260000
+Developer,Remote,11,Software development,9,160000
+Developer,Remote,28,Education,6,105000
+AI/ML engineer,Remote,26,Software development,9,230000
+Developer,Hybrid,28,Hospitality or travel,8,125000
+Developer,Remote,15,Other,7,133000
+DevOps engineer or professional,Hybrid,12,Other,8,175000
+Developer,Hybrid,30,Fintech,10,180000
+Developer,Hybrid,16,Software development,10,250000
+Platform engineer,Hybrid,10,Non-profit or social services,9,85000
+Developer,Hybrid,1,Software development,7,157000
+Data engineer,Hybrid,16,IT services,5,190000
+AI/ML engineer,In-person,20,Other,10,300000
+Developer,Remote,30,Healthcare,9,167000
+Data scientist,Hybrid,14,Government,6,89500
+Developer,Hybrid,9,Manufacturing,2,80000
+Developer,Hybrid,30,Software development,6,230000
+Developer,In-person,23,Education,10,90000
+Developer,Remote,27,Utilities,7,497000
+Developer,Hybrid,19,Utilities,4,375000
+Developer,Remote,20,Healthcare,5,135000
+Cybersecurity or InfoSec professional,Hybrid,1,Government,8,90000
+Architect,Remote,21,Fintech,8,622000
+Developer,In-person,50,Software development,8,140000
+Data engineer,Remote,20,Engineering services or applied R&D,6,80000
+Developer,Hybrid,1,Healthcare,4,72820
+Developer,Remote,26,Government,8,210000
+Developer,In-person,4,Retail,4,100000
+Developer,Remote,33,Other,5,119708
+Developer,Remote,30,Government,8,140000
+Developer,Remote,32,IT services,8,135000
+Senior executive,Hybrid,54,Other,10,11000
+Developer,Remote,9,Scientific research,8,90000
+Developer,Remote,38,Software development,8,420000
+Hardware engineer,Remote,5,Engineering services or applied R&D,7,210000
+Developer,Remote,14,Healthcare,7,240000
+System administrator,Hybrid,15,Non-profit or social services,8,70000
+Developer,Remote,20,Software development,3,135000
+Developer,Remote,17,Software development,6,169000
+Developer,Your choice,9,Banking/financial services,8,130000
+Senior executive,Remote,24,Software development,6,123000
+Hardware engineer,In-person,13,Other,8,175000
+Developer,In-person,20,Government,10,120000
+Developer,Hybrid,6,Energy,7,142000
+Developer,Remote,14,Fintech,8,190000
+Engineering manager,Your choice,12,Healthcare,7,250000
+Developer,Hybrid,23,Non-profit or social services,8,185000
+Developer,Your choice,22,Other,7,118000
+Developer,Hybrid,10,Software development,6,365000
+Developer,Your choice,2,Engineering services or applied R&D,6,95000
+Developer,Remote,49,Media or advertising services,9,170000
+Developer,In-person,5,Engineering services or applied R&D,8,78000
+Developer,In-person,37,Non-profit or social services,10,90000
+Developer,In-person,10,Manufacturing,5,102435
+Developer,In-person,12,Manufacturing,8,90000
+Architect,Hybrid,22,Software development,5,330000
+Developer,Remote,18,Fintech,4,178000
+Data scientist,Hybrid,4,Government,8,123000
+Data engineer,Remote,7,IT services,2,180000
+Developer,Hybrid,42,Government,7,190000
+Developer,In-person,1,Other,9,96000
+Developer,Remote,32,Software development,2,275000
+Developer,Hybrid,14,Software development,9,120000
+Developer,Remote,22,Media or advertising services,8,170000
+Engineering manager,Your choice,31,Healthcare,4,370000
+Developer,In-person,22,Government,7,51000
+Developer,In-person,8,Fintech,7,210000
+Data scientist,Hybrid,3,Government,4,102500
+Architect,Remote,20,Fintech,8,165000
+DevOps engineer or professional,Remote,25,Government,4,245000
+Other,Hybrid,20,Healthcare,8,225000
+Architect,Remote,20,Non-profit or social services,10,480000
+Developer,In-person,2,Other,7,115000
+Developer,Remote,25,Software development,9,330000
+Developer,Remote,26,Banking/financial services,8,270000
+Data engineer,In-person,4,IT services,7,73000
+Developer,Remote,33,Software development,2,300000
+Developer,Hybrid,11,Life sciences or biotechnology,8,100000
+Data scientist,Hybrid,3,Software development,6,136000
+Support engineer or analyst,Remote,30,Healthcare,10,140000
+Data or business analyst,In-person,1,Manufacturing,10,65000
+Developer,Hybrid,10,Fintech,9,170000
+Applied scientist,Remote,10,Engineering services or applied R&D,7,154000
+Developer,Hybrid,10,Software development,9,250000
+Developer,Hybrid,5,Insurance,9,188500
+Developer,Your choice,43,IT services,10,130000
+Cybersecurity or InfoSec professional,Remote,12,IT services,7,125000
+Developer,In-person,16,IT services,6,250000
+Developer,Remote,28,Fintech,10,160000
+Developer,Remote,12,Mining or construction,8,185000
+DevOps engineer or professional,In-person,14,Media or advertising services,8,350000
+Architect,Remote,19,Government,8,180000
+Developer,In-person,3,Government,5,109500
+Developer,Hybrid,6,Education,8,175000
+AI/ML engineer,Remote,1,Other,7,188000
+Architect,Remote,33,Media or advertising services,7,170000
+Architect,Remote,26,Media or advertising services,3,280000
+Developer,Remote,23,Fintech,8,200000
+Developer,Hybrid,12,Education,8,160000
+Data engineer,Your choice,32,Manufacturing,7,120000
+Software engineer,Hybrid,5,Manufacturing,8,92000
+Developer,Hybrid,26,Software development,6,225000
+Site reliability engineer,In-person,20,Fintech,3,925000
+Engineering manager,In-person,45,Software development,10,420000
+Developer,Remote,9,Manufacturing,9,188000
+Developer,Remote,11,Software development,7,263000
+Solutions engineer,Remote,50,Government,10,132500
+Developer,Remote,7,Manufacturing,8,89000
+Developer,Remote,25,Healthcare,7,300000
+Architect,Hybrid,28,Healthcare,9,149000
+Developer,Remote,9,Retail,9,400000
+Developer,In-person,5,Fintech,3,120000
+Developer,Remote,14,Software development,4,150000
+Developer,Remote,15,Education,6,85000
+Developer,Hybrid,1,Banking/financial services,9,525000
+Solutions engineer,Hybrid,25,Engineering services or applied R&D,8,166000
+DevOps engineer or professional,Remote,32,IT services,5,180000
+Developer,Remote,19,IT services,8,108000
+Developer,Your choice,13,Life sciences or biotechnology,4,230000
+Developer,Hybrid,10,Retail,6,128000
+Developer,Remote,34,Government,10,125000
+Developer,Remote,16,Fintech,7,400000
+Developer,Remote,9,Government,1,140000
+Developer,Hybrid,29,Manufacturing,9,152000
+Developer,Remote,16,Utilities,8,520000
+Engineering manager,Remote,20,Software development,7,240000
+Developer,Your choice,13,Healthcare,7,250000
+Data scientist,Hybrid,10,Manufacturing,9,238000
+Architect,Remote,10,Media or advertising services,5,190000
+Developer,Hybrid,12,Software development,3,160000
+Developer,Your choice,25,Education,9,110000
+Developer,Hybrid,22,Other,0,750000
+Developer,In-person,25,Broadcasting or publishing,5,600000
+Developer,Hybrid,1,Software development,7,140000
+Database administrator or engineer,Your choice,23,Transportation or supply chain,8,158000
+Developer,Remote,20,Other,8,250000
+Developer,Remote,18,IT services,8,180000
+Software engineer,Remote,48,Other,7,132000
+Developer,Remote,30,Healthcare,6,130000
+Developer,In-person,47,Transportation or supply chain,8,148000
+Developer,Remote,15,Transportation or supply chain,6,175000
+Architect,Remote,28,Fintech,2,168000
+Other,In-person,9,Other,10,71000
+Developer,Hybrid,26,Fintech,8,101000
+Developer,Hybrid,15,Software development,10,221200
+Developer,Hybrid,3,Insurance,10,52000
+Developer,Hybrid,2,Software development,6,71300
+Developer,Remote,14,IT services,1,130000
+Engineering manager,Hybrid,29,Banking/financial services,8,180000
+Developer,Hybrid,26,Media or advertising services,9,135000
+Academic researcher,In-person,16,Education,3,96000
+Developer,Remote,45,Government,8,120000
+Developer,In-person,2,Retail,6,85000
+Developer,Remote,40,Banking/financial services,10,160000
+Engineering manager,Remote,27,Education,6,90000
+Developer,Remote,28,Software development,9,150000
+Engineering manager,Remote,11,Healthcare,3,240000
+Developer,In-person,3,Mining or construction,7,92000
+Developer,Hybrid,8,Insurance,6,90000
+Developer,Hybrid,15,Software development,9,570000
+Developer,Remote,20,Other,3,220000
+Developer,In-person,2,Government,3,136000
+Architect,Remote,11,IT services,8,200000
+Developer,Remote,22,IT services,8,200000
+Applied scientist,Hybrid,12,Engineering services or applied R&D,8,190000
+Developer,Remote,16,Broadcasting or publishing,8,185000
+Developer,Remote,13,Banking/financial services,7,250000
+Developer,Remote,11,Banking/financial services,8,200000
+Cloud infrastructure engineer,Remote,14,Banking/financial services,9,110000
+Solutions engineer,Remote,19,IT services,9,200000
+Architect,Remote,20,Software development,9,210000
+Developer,Remote,20,Fintech,7,185000
+Architect,Remote,21,Retail,8,185000
+Developer,Hybrid,6,Banking/financial services,5,190000
+Cybersecurity or InfoSec professional,Remote,25,IT services,7,325000
+Educator or instructor,Remote,30,IT services,8,150000
+Platform engineer,In-person,34,Energy,8,225000
+Developer,In-person,37,Manufacturing,8,172000
+Architect,Hybrid,3,Other,8,112800
+Developer,Remote,15,Insurance,6,115000
+Developer,In-person,7,Retail,4,320000
+Developer,Hybrid,11,Software development,8,119000
+Data scientist,Hybrid,10,Engineering services or applied R&D,8,150000
+Developer,Remote,14,Software development,8,170000
+Developer,In-person,2,Mining or construction,8,80000
+Architect,Your choice,19,Fintech,8,250000
+Developer,Your choice,25,Insurance,9,190000
+Developer,Your choice,15,Healthcare,7,109000
+Product manager,Hybrid,16,IT services,8,400000
+Developer,Hybrid,14,Media or advertising services,8,170000
+Architect,Remote,46,Healthcare,8,252000
+Cloud infrastructure engineer,Remote,13,Software development,7,170000
+Developer,Your choice,5,Insurance,8,110000
+Developer,Hybrid,2,Government,6,86000
+Developer,Remote,8,Banking/financial services,7,145000
+Student,In-person,2,Fintech,5,65000
+Software engineer,Remote,3,Life sciences or biotechnology,9,125000
+Developer,Remote,22,Manufacturing,8,150000
+Hardware engineer,In-person,1,Transportation or supply chain,7,70000
+Developer,Hybrid,13,Mining or construction,8,152000
+Developer,Remote,7,Fintech,9,150000
+Cloud infrastructure engineer,Hybrid,2,Media or advertising services,8,57000
+Engineering manager,Remote,26,Other,8,250000
+Developer,Remote,10,Fintech,9,250000
+Developer,Hybrid,12,Government,5,111000
+Developer,In-person,16,Software development,10,240000
+Developer,In-person,12,Manufacturing,7,75000
+Developer,Hybrid,25,Software development,8,300000
+Cloud infrastructure engineer,Hybrid,15,Healthcare,3,230000
+Other,Hybrid,6,Software development,8,410000
+Developer,Remote,22,Software development,8,145000
+Developer,Remote,15,Retail,8,65000
+Architect,Hybrid,2,Healthcare,7,107000
+Developer,Remote,15,Utilities,5,160000
+Engineering manager,Remote,14,Mining or construction,5,230000
+Data or business analyst,Remote,10,Education,9,90000
+Other,In-person,3,Manufacturing,1,20000
+Developer,Remote,36,Software development,6,180000
+Developer,Remote,30,Banking/financial services,6,160000
+Developer,Remote,7,Manufacturing,7,150000
+Data engineer,In-person,8,Utilities,9,105000
+Other,In-person,1,Healthcare,3,40000
+Solutions engineer,Remote,10,Utilities,10,180000
+Cybersecurity or InfoSec professional,Hybrid,10,Transportation or supply chain,8,165000
+Developer,Hybrid,22,Engineering services or applied R&D,3,240000
+Developer,Remote,16,Manufacturing,10,250000
+Developer,Remote,7,Fintech,7,150000
+Solutions engineer,Remote,14,Healthcare,4,110000
+Cybersecurity or InfoSec professional,In-person,6,Government,7,120000
+Developer,Remote,19,Non-profit or social services,0,130000
+Developer,Hybrid,16,Education,3,115000
+Developer,Remote,27,Fintech,8,185000
+Developer,Hybrid,20,Software development,6,380000
+Applied scientist,Remote,13,Software development,7,200000
+Engineering manager,Remote,19,Banking/financial services,8,230000
+Developer,Remote,4,Mining or construction,6,85000
+Developer,Remote,16,Utilities,4,230000
+Academic researcher,Hybrid,6,Scientific research,6,103714
+Developer,Your choice,19,Other,6,105000
+Engineering manager,Remote,20,Software development,8,140000
+Data scientist,Your choice,12,Healthcare,6,180000
+Architect,Remote,20,Fintech,7,740000
+Academic researcher,Hybrid,9,Education,8,30000
+Engineering manager,In-person,15,Utilities,6,220000
+Data or business analyst,Hybrid,30,Education,8,95000
+Cloud infrastructure engineer,Hybrid,20,IT services,7,225000
+Architect,Remote,32,Healthcare,9,500000
+Developer,Remote,6,Government,6,120000
+Developer,Remote,10,Retail,7,190000
+Developer,Hybrid,3,Life sciences or biotechnology,9,160000
+Developer,Remote,15,Software development,8,370000
+Developer,In-person,6,Other,10,200000
+Developer,Remote,5,Retail,6,113000
+Developer,In-person,17,Other,10,135000
+Developer,Remote,30,Fintech,5,80000
+Developer,Hybrid,6,Transportation or supply chain,5,130000
+Developer,Hybrid,10,Mining or construction,5,135000
+Developer,In-person,1,Software development,7,170000
+Developer,In-person,2,Software development,7,220000
+Developer,In-person,1,Banking/financial services,8,85000
+Developer,In-person,6,IT services,7,250000
+Support engineer or analyst,Hybrid,18,Education,8,90000
+Developer,Your choice,12,Media or advertising services,7,1950000
+Developer,Hybrid,6,Software development,7,187000
+Developer,Remote,23,Banking/financial services,7,170000
+Developer,Your choice,10,Transportation or supply chain,7,200000
+Cloud infrastructure engineer,Remote,8,Software development,6,400000
+Solutions engineer,In-person,10,Software development,8,150000
+Developer,In-person,10,Other,8,200000
+Developer,Remote,28,Government,8,350000
+Developer,Remote,29,IT services,8,192500
+Developer,In-person,20,IT services,8,235000
+Developer,Hybrid,12,Other,10,174000
+Developer,Remote,21,Manufacturing,4,171000
+DevOps engineer or professional,Hybrid,5,Fintech,5,300000
+Data scientist,Remote,13,Retail,1,176000
+Developer,Hybrid,3,Engineering services or applied R&D,8,150000
+Senior executive,Remote,34,Media or advertising services,9,350000
+Architect,Hybrid,13,Other,9,185000
+Developer,In-person,4,Software development,5,82500
+Applied scientist,In-person,27,Government,8,180000
+Developer,Hybrid,10,Agriculture,8,225000
+Developer,Remote,9,Banking/financial services,7,166100
+DevOps engineer or professional,In-person,1,Other,8,98000
+Developer,In-person,15,Healthcare,8,140000
+Developer,Hybrid,10,Fintech,0,200000
+Developer,Remote,7,Education,6,144000
+Data scientist,Hybrid,10,Fintech,7,240000
+Developer,Hybrid,6,Banking/financial services,8,180000
+Developer,In-person,5,Transportation or supply chain,8,100000
+Architect,Your choice,17,Engineering services or applied R&D,7,150000
+Developer,Remote,9,Government,8,215000
+Developer,Your choice,23,IT services,10,175000
+Developer advocate or developer relations professional,Remote,25,Software development,9,170000
+Developer,Remote,21,Other,8,330000
+Applied scientist,Remote,16,Scientific research,7,140000
+Developer,Remote,19,Utilities,9,200000
+UX,Remote,32,Media or advertising services,5,57000
+Developer,Hybrid,20,IT services,7,210000
+Data engineer,Hybrid,35,Software development,1,140000
+Developer,Remote,38,Education,8,120000
+Developer,Your choice,22,Fintech,5,280000
+Data engineer,Remote,13,Media or advertising services,7,450000
+Developer,Remote,15,IT services,2,216000
+Developer,Remote,24,Education,9,117000
+Developer,Remote,17,Healthcare,10,137000
+Data engineer,Remote,10,Life sciences or biotechnology,3,162000
+Engineering manager,Remote,20,Software development,3,165000
+Developer,Hybrid,23,Transportation or supply chain,10,146000
+Architect,In-person,20,Software development,7,170000
+Developer,Your choice,15,Software development,8,120000
+Developer,Remote,16,Education,6,184000
+Developer,Remote,36,Education,10,140000
+Developer,In-person,22,Energy,8,250000
+Developer,Hybrid,14,Other,9,184000
+Academic researcher,Hybrid,9,Scientific research,8,36000
+Engineering manager,Hybrid,35,Government,8,198000
+Developer,Remote,6,Insurance,8,180000
+Cybersecurity or InfoSec professional,Remote,35,Software development,6,230000
+Developer,In-person,10,Healthcare,6,236000
+Developer,In-person,4,Manufacturing,7,100000
+Senior executive,Remote,16,Mining or construction,7,360000
+Developer,In-person,26,Government,5,330000
+System administrator,Remote,30,Utilities,5,100000
+Software engineer,Your choice,12,Non-profit or social services,5,170000
+Developer,Hybrid,26,Retail,10,125000
+Developer,Remote,14,Healthcare,5,170000
+Developer,In-person,14,Life sciences or biotechnology,8,88000
+Developer,Remote,13,Other,3,182000
+Architect,Remote,26,Healthcare,1,200000
+Developer,Remote,24,Media or advertising services,6,120000
+Student,In-person,1,Healthcare,4,30000
+Developer,Remote,8,Non-profit or social services,3,100000
+Engineering manager,Remote,12,Healthcare,7,237000
+Developer,In-person,10,Software development,7,148000
+Developer,In-person,50,Hospitality or travel,8,105000
+Developer,In-person,34,Software development,8,145000
+Developer,Remote,10,Banking/financial services,9,110000
+Architect,Remote,15,IT services,10,150000
+Developer,Remote,17,Education,7,113000
+Applied scientist,In-person,7,Engineering services or applied R&D,8,120000
+Developer,Your choice,12,Software development,9,104000
+Developer,Remote,18,Education,4,150000
+Educator or instructor,In-person,16,Education,10,128000
+Developer,In-person,10,Government,7,160000
+Developer,Remote,20,Software development,0,750000
+Engineering manager,Remote,14,Other,9,170000
+Senior executive,Hybrid,6,Other,7,130000
+Developer,In-person,3,Government,8,109000
+Developer,Remote,14,Software development,7,107000
+Data or business analyst,Your choice,2,Other,6,70000
+Developer,Remote,35,Utilities,7,160000
+Data scientist,Hybrid,12,Life sciences or biotechnology,8,175000
+Developer,Your choice,17,Media or advertising services,8,110000
+Hardware engineer,Hybrid,12,Other,9,170000
+Developer,Remote,8,Engineering services or applied R&D,3,135000
+Developer,Your choice,1,Software development,7,97000
+Developer,Hybrid,4,Fintech,3,137000
+Engineering manager,Remote,31,Utilities,7,237000
+Developer,Remote,10,Engineering services or applied R&D,6,115000
+Developer,Hybrid,10,Government,7,140000
+Engineering manager,Remote,19,Manufacturing,9,150000
+Developer,Remote,8,Life sciences or biotechnology,4,120000
+Senior executive,Your choice,18,Fintech,9,600000
+Developer,Hybrid,15,Software development,9,238500
+Data engineer,Hybrid,5,IT services,4,168000
+Developer,Remote,9,Other,8,120000
+Developer,Remote,22,Other,8,155000
+Platform engineer,In-person,14,Engineering services or applied R&D,9,170000
+Developer,Remote,12,Education,5,205000
+Developer,Remote,10,Hospitality or travel,3,105000
+Developer,Hybrid,36,Healthcare,8,210000
+Developer,Remote,38,Software development,0,300000
+Architect,Hybrid,9,Healthcare,3,155000
+Developer,In-person,4,Agriculture,8,130000
+Developer,Hybrid,11,Banking/financial services,3,220000
+Developer,Remote,10,Retail,9,150000
+Academic researcher,Hybrid,8,Education,7,78000
+Data engineer,Remote,8,Energy,2,200000
+Developer,In-person,4,Engineering services or applied R&D,7,125000
+Developer,Remote,37,Retail,6,217000
+Developer,Remote,25,Media or advertising services,6,250000
+Developer,Remote,15,Banking/financial services,0,27300
+Developer,Remote,15,Utilities,7,120000
+Developer,Remote,11,Retail,9,76000
+Developer,Remote,10,Healthcare,7,136000
+Architect,Remote,30,Manufacturing,4,178000
+Developer,Remote,9,Software development,7,185000
+Developer,Remote,9,Retail,8,258000
+Developer,Hybrid,11,Retail,8,215000
+Developer,Remote,15,Software development,8,250000
+Solutions engineer,Remote,30,Utilities,8,170000
+Developer,Remote,9,Retail,7,183000
+Developer,Your choice,14,Software development,8,172000
+Developer,In-person,13,Government,8,115000
+Founder or entrepreneur,Remote,47,Software development,10,200000
+Developer,Remote,6,Agriculture,5,100099
+Developer,Remote,23,Healthcare,5,105000
+Developer,Hybrid,8,Other,8,160000
+Developer,Hybrid,15,Agriculture,8,200000
+Developer,Remote,7,Healthcare,7,125000
+Developer,In-person,6,Manufacturing,5,80000
+Developer,In-person,11,IT services,9,100000
+Developer,Hybrid,36,Broadcasting or publishing,9,210000
+Developer,In-person,5,Retail,8,130000
+Software engineer,Remote,26,Fintech,8,280000
+Developer,Hybrid,14,Fintech,10,150000
+Developer,Hybrid,11,Scientific research,6,135000
+Cybersecurity or InfoSec professional,Hybrid,14,IT services,10,250000
+Developer,Remote,15,IT services,10,149000
+Developer,Remote,14,Other,5,190000
+Site reliability engineer,Remote,13,Software development,4,200000
+Data scientist,Remote,31,Healthcare,7,142000
+Developer,Remote,14,Energy,10,260000
+Solutions engineer,In-person,8,Manufacturing,8,119000
+Developer,Remote,56,Software development,10,80000
+Developer,Hybrid,19,Retail,10,300000
+Architect,Remote,19,Energy,10,200000
+Developer,Remote,36,Manufacturing,8,110000
+Developer,Remote,17,Software development,7,140000
+Developer,Remote,30,Healthcare,9,110000
+Developer,Remote,12,Fintech,10,185000
+Developer,In-person,22,Retail,6,400000
+Developer,Remote,25,Fintech,7,12000
+Developer,Remote,13,Hospitality or travel,5,200000
+Developer,Remote,3,Healthcare,7,125000
+Developer,Remote,32,Software development,10,150000
+Developer,Remote,15,Other,6,170000
+Architect,Your choice,35,IT services,2,176000
+Site reliability engineer,Remote,25,Other,9,230000
+Developer,Remote,22,Retail,8,140000
+Developer,Hybrid,5,Software development,7,75000
+Data engineer,Remote,11,Retail,9,154000
+Developer,Hybrid,3,Media or advertising services,8,65000
+Developer,Remote,12,Insurance,8,185000
+Developer,Remote,12,Fintech,7,600000
+Developer,Hybrid,13,Government,10,185000
+Data engineer,In-person,3,Healthcare,8,100000
+Developer,Hybrid,8,Healthcare,7,150000
+Developer,Hybrid,13,Transportation or supply chain,5,193000
+Developer,In-person,26,Media or advertising services,9,167000
+Developer,Remote,15,Software development,5,3500000
+Developer,Remote,2,Non-profit or social services,8,70000
+Developer,Remote,16,Energy,7,180000
+Developer,In-person,19,Government,8,127000
+Cybersecurity or InfoSec professional,Remote,20,Software development,8,225000
+Developer,Remote,23,Software development,9,123000
+Engineering manager,Remote,20,Software development,9,308000
+Product manager,Remote,10,Software development,3,210000
+Engineering manager,Remote,26,Retail,8,215000
+UX,Remote,11,Healthcare,9,2000000
+Developer,Hybrid,31,Media or advertising services,9,250000
+Developer,Remote,26,Healthcare,2,170000
+Architect,Remote,15,Transportation or supply chain,9,300000
+Developer,Remote,19,Software development,8,160000
+Developer,Your choice,6,Banking/financial services,1,120000
+Site reliability engineer,Remote,10,Fintech,6,145000
+Developer,In-person,19,IT services,7,700000
+DevOps engineer or professional,Remote,13,Software development,9,10800
+Developer,In-person,6,Education,6,106000
+Developer,Remote,25,Software development,6,490000
+Developer,Hybrid,27,Banking/financial services,5,170000
+DevOps engineer or professional,In-person,20,Other,9,200000
+Developer,Hybrid,16,Education,8,100000
+Developer,Remote,9,IT services,7,135000
+Developer,Remote,8,IT services,5,260000
+AI/ML engineer,Remote,30,Other,0,230000
+Engineering manager,Remote,28,Software development,5,143000
+Product manager,Remote,10,Software development,4,900000
+Developer,Hybrid,9,Agriculture,9,100000
+Data scientist,In-person,12,Utilities,6,145000
+Architect,Your choice,35,Energy,8,230000
+Hardware engineer,In-person,7,Engineering services or applied R&D,6,170000
+Developer,Remote,26,Transportation or supply chain,5,207000
+AI/ML engineer,Your choice,5,Media or advertising services,6,317000
+Developer,Hybrid,11,Energy,7,127296
+Developer,Remote,15,Software development,2,390000
+Project manager,In-person,20,Non-profit or social services,8,160000
+Other,In-person,20,IT services,2,60000
+Architect,Remote,28,Retail,9,188000
+Developer,Hybrid,43,IT services,3,145000
+Senior executive,Hybrid,23,Software development,7,295000
+Developer,Hybrid,13,Software development,6,130000
+Engineering manager,Remote,32,IT services,5,200000
+Hardware engineer,In-person,35,Government,6,90000
+DevOps engineer or professional,Remote,12,Banking/financial services,10,188000
+Developer,Remote,9,Fintech,7,270000
+Developer,Your choice,12,Software development,8,148408
+Developer,In-person,21,Software development,9,150000
+Developer,Hybrid,8,Government,8,101000
+Developer,Hybrid,1,Retail,7,150000
+Engineering manager,Remote,18,Other,9,325000
+Hardware engineer,Your choice,5,Other,5,130000
+Developer,Your choice,16,Energy,9,234000
+Developer,Your choice,23,Engineering services or applied R&D,8,180000
+Developer,Remote,15,Healthcare,9,130000
+Developer,Remote,42,Fintech,10,185000
+Educator or instructor,In-person,30,Education,10,75000
+Solutions engineer,Remote,22,Retail,8,149000
+Database administrator or engineer,Hybrid,25,Education,8,130000
+Developer,Remote,14,Other,2,300000
+Developer,In-person,4,Life sciences or biotechnology,9,88000
+Developer,Hybrid,2,Software development,9,170000
+Developer,Remote,9,Software development,7,152030
+Developer,Hybrid,23,Scientific research,9,215000
+Engineering manager,Hybrid,15,Banking/financial services,8,925000
+Developer,Hybrid,6,Healthcare,8,71805
+Developer,In-person,7,Education,0,55000
+AI/ML engineer,Hybrid,14,Software development,6,200000
+Developer,Remote,7,Banking/financial services,7,145000
+Developer,Remote,27,Government,7,140000
+Data engineer,Hybrid,27,IT services,2,200000
+Developer,Remote,10,Retail,8,145000
+Developer,Remote,15,IT services,7,100000
+Developer,Your choice,15,IT services,8,260000
+Architect,Remote,20,Government,7,300000
+Database administrator or engineer,Remote,45,Healthcare,10,140000
+Developer,Remote,20,Transportation or supply chain,7,105000
+Developer,Hybrid,16,Healthcare,10,150000
+Cloud infrastructure engineer,Hybrid,26,Insurance,7,180249
+Architect,In-person,11,Insurance,7,68900
+Developer,Remote,18,Banking/financial services,7,180000
+Developer,Hybrid,13,Other,7,135000
+Developer,Remote,36,Broadcasting or publishing,10,200000
+Architect,Hybrid,34,Software development,3,600000
+Developer,Hybrid,10,Fintech,8,214000
+Developer,Remote,7,Utilities,4,80000
+Data scientist,Hybrid,5,Other,8,175000
+Senior executive,Your choice,38,Software development,7,220000
+Developer,Remote,40,Software development,8,250000
+Academic researcher,Hybrid,3,Scientific research,5,41000
+Data scientist,Remote,2,Scientific research,3,13000
+Developer,Hybrid,1,Engineering services or applied R&D,8,137000
+Developer,Remote,10,Software development,8,275000
+Engineering manager,Remote,36,Healthcare,1,137000
+Developer,Hybrid,4,Manufacturing,3,107000
+Developer,Remote,15,Media or advertising services,7,300000
+Developer,In-person,4,Other,8,125000
+Data engineer,Remote,20,Engineering services or applied R&D,8,300000
+AI/ML engineer,Remote,5,Retail,9,352000
+Architect,Hybrid,14,Healthcare,9,200000
+Developer,Hybrid,8,IT services,8,84000
+Product manager,Hybrid,30,Healthcare,3,210000
+Data scientist,Remote,9,Life sciences or biotechnology,9,300000
+Developer,Remote,14,Education,0,200000
+AI/ML engineer,In-person,23,Media or advertising services,3,205000
+Developer,Hybrid,12,Fintech,5,220000
+Developer,Remote,13,Other,8,199000
+Developer,Your choice,12,Life sciences or biotechnology,6,180000
+Data engineer,Remote,27,Software development,10,170000
+Developer,In-person,13,IT services,6,450000
+Solutions engineer,Remote,5,Software development,6,140000
+Developer,In-person,6,Banking/financial services,2,150000
+Developer,Remote,20,Software development,7,200000
+Engineering manager,In-person,15,Life sciences or biotechnology,8,240000
+Developer,Remote,13,Government,8,145000
+Developer,Your choice,30,Banking/financial services,8,164000
+Developer,Hybrid,5,Banking/financial services,7,12000
+Site reliability engineer,Remote,14,Banking/financial services,6,242000
+Developer,Remote,22,Agriculture,3,190000
+Architect,Remote,41,Other,8,255000
+Developer,Hybrid,15,Agriculture,1,150000
+Developer,Remote,27,Healthcare,8,175000
+Engineering manager,Hybrid,11,Manufacturing,9,165000
+Engineering manager,Remote,17,Education,3,245863
+Developer,In-person,15,Software development,6,133923
+Developer,In-person,39,Manufacturing,7,104000
+Developer,Hybrid,18,Engineering services or applied R&D,10,300000
+Developer,Remote,20,Healthcare,7,170000
+Developer,In-person,4,Utilities,6,250000
+Developer,Remote,8,Software development,8,255000
+Developer,In-person,12,Manufacturing,2,76000
+Data or business analyst,Hybrid,6,Energy,8,130000
+Developer,Remote,14,Banking/financial services,9,600000
+Developer,Hybrid,10,Software development,6,250000
+Developer,Hybrid,3,Manufacturing,7,85000
+Data scientist,Remote,20,Healthcare,10,183000
+Software engineer,Remote,8,Government,5,153000
+Solutions engineer,Remote,9,Fintech,9,230000
+Developer,In-person,15,Healthcare,7,60000
+Data scientist,Remote,6,Healthcare,7,150000
+Engineering manager,Remote,22,Software development,9,205000
+Engineering manager,Remote,10,Software development,6,200000
+Developer,In-person,1,Agriculture,7,62000
+Developer,Remote,6,Fintech,8,144000
+Developer,Hybrid,9,Government,7,100000
+Developer,Your choice,27,Mining or construction,6,200000
+Developer,Remote,20,Transportation or supply chain,9,240000
+Developer,In-person,15,IT services,10,150000
+Architect,Remote,12,IT services,7,180000
+Developer,Your choice,13,Media or advertising services,5,265000
+Architect,Your choice,22,Fintech,7,320000
+Student,In-person,1,IT services,7,80000
+Developer,Hybrid,24,Fintech,8,185000
+DevOps engineer or professional,Hybrid,9,Government,9,139050
+Developer,In-person,17,Retail,9,200000
+Developer,Remote,14,Banking/financial services,8,220000
+Architect,Remote,13,Media or advertising services,10,250000
+Software engineer,Your choice,20,Transportation or supply chain,7,320000
+Developer,Hybrid,7,IT services,9,257100
+Developer,Remote,28,Healthcare,9,139000
+Developer,Hybrid,22,Software development,8,530000
+Developer,In-person,2,Manufacturing,8,200000
+Other,In-person,5,Healthcare,6,50000
+Developer,Remote,15,Healthcare,0,150000
+Site reliability engineer,Remote,16,Energy,10,210000
+Developer,Remote,10,Media or advertising services,9,200000
+Developer,Remote,14,Software development,9,330000
+Developer,Hybrid,30,Utilities,7,114000
+Developer,Hybrid,30,Software development,10,230000
+Developer,Remote,4,Fintech,10,160000
+Data engineer,Remote,45,Education,6,100000
+Developer,Hybrid,26,Retail,10,150000
+Developer,Remote,8,Utilities,5,200000
+Academic researcher,Hybrid,11,Education,6,76000
+Architect,Hybrid,25,Retail,8,280000
+Developer,Remote,40,Insurance,9,120000
+Developer,Hybrid,20,Software development,7,195000
+Developer,In-person,3,Manufacturing,2,62400
+Developer,Hybrid,1,Software development,9,110000
+Developer,Hybrid,8,Other,9,82500
+Developer,Hybrid,1,Software development,10,90000
+Developer,Remote,15,Software development,3,200000
+Developer,Your choice,34,Healthcare,9,215000
+Developer,Remote,46,Government,8,120000
+Developer,Remote,27,Healthcare,5,160000
+Developer,Hybrid,37,Fintech,8,150000
+Developer,Remote,18,Insurance,9,151000
+Developer,Remote,10,Retail,7,100000
+Site reliability engineer,Your choice,33,Utilities,8,170000
+Developer,In-person,16,Government,10,125000
+Engineering manager,Remote,11,Software development,5,312578
+Engineering manager,Remote,18,IT services,9,250000
+Other,Remote,16,Government,8,100000
+Architect,In-person,9,Manufacturing,8,120000
+Developer,Hybrid,4,Other,8,105000
+Academic researcher,Hybrid,9,Education,10,485000
+Cloud infrastructure engineer,Remote,19,Healthcare,3,180000
+Engineering manager,Hybrid,18,Software development,6,400000
+Academic researcher,In-person,1,Software development,8,30000
+Developer,Hybrid,11,Software development,9,110000
+Database administrator or engineer,Hybrid,20,Manufacturing,7,165000
+Developer,Remote,15,Other,5,120000
+Developer,Your choice,1,Software development,4,44000
+Engineering manager,Remote,22,Banking/financial services,7,220000
+Developer,In-person,4,Government,5,70000
+Developer,Hybrid,3,Banking/financial services,4,100000
+Solutions engineer,Remote,12,IT services,9,200000
+Developer,Remote,19,Software development,7,170000
+Developer,Hybrid,5,Insurance,7,10700
+Developer,Remote,18,Software development,7,211540
+Architect,Remote,32,IT services,2,250000
+Developer,Hybrid,12,Other,7,207000
+Developer,Remote,15,Retail,3,205000
+Hardware engineer,In-person,27,Other,9,320000
+System administrator,Hybrid,40,Government,3,124400
+System administrator,Hybrid,12,Education,9,120000
+Developer,Hybrid,13,Software development,7,310000
+Architect,Hybrid,37,Government,8,145000
+Developer,Hybrid,34,IT services,8,98000
+Developer,Hybrid,8,Broadcasting or publishing,7,125000
+Architect,In-person,2,Software development,8,37440
+Site reliability engineer,Remote,11,Software development,4,195000
+Applied scientist,In-person,45,Engineering services or applied R&D,9,220000
+Developer,Remote,25,Other,0,300000
+Developer,Remote,40,Transportation or supply chain,9,250000
+Architect,Hybrid,15,Other,7,155000
+Developer,Your choice,17,Software development,8,92000
+Developer,Hybrid,12,Banking/financial services,9,180000
+Developer,Remote,24,Healthcare,0,173307
+Developer,Remote,36,Non-profit or social services,6,124000
+Architect,Remote,30,Insurance,7,250000
+Developer,Remote,8,Life sciences or biotechnology,7,115000
+Developer,Remote,10,Transportation or supply chain,7,450000
+Developer,Remote,57,Manufacturing,10,160000
+Developer,Remote,10,Healthcare,8,150000
+Academic researcher,Hybrid,4,Scientific research,9,50000
+Developer,Remote,12,Transportation or supply chain,9,200644
+Cybersecurity or InfoSec professional,Hybrid,6,Government,6,170000
+Architect,Remote,24,Agriculture,9,233000
+Developer,In-person,1,Engineering services or applied R&D,10,205000
+Data engineer,Remote,21,IT services,9,140000
+Developer,Remote,17,Other,7,212000
+Developer,Remote,11,Banking/financial services,7,110000
+Developer,In-person,13,Manufacturing,7,132000
+Developer,Remote,9,Government,9,185000
+Developer,Remote,11,Software development,3,230000
+Developer,Remote,41,Software development,8,101000
+Cloud infrastructure engineer,Remote,26,Software development,7,300000
+Applied scientist,Hybrid,37,Government,7,120000
+System administrator,Remote,35,Government,5,134000
+Developer,Remote,16,Fintech,5,240000
+Developer advocate or developer relations professional,Remote,29,Other,7,420000
+Engineering manager,Remote,30,Software development,6,145000
+Developer,Remote,16,Scientific research,6,145000
+Developer,Remote,2,Other,9,113000
+Other,Remote,22,Transportation or supply chain,3,48000
+Cybersecurity or InfoSec professional,Remote,13,Other,8,264000
+Hardware engineer,Remote,28,Retail,10,140000
+Developer,Remote,18,Software development,10,220000
+Developer,Remote,6,Education,6,130000
+Developer,In-person,14,Software development,7,195000
+Support engineer or analyst,Remote,44,Software development,10,220000
+Developer,Hybrid,22,Software development,6,180000
+Developer,Remote,19,Software development,9,450000
+Site reliability engineer,Hybrid,16,IT services,6,94500
+Developer,Remote,42,Mining or construction,8,190000
+Senior executive,Hybrid,30,Software development,9,300000
+AI/ML engineer,In-person,31,Engineering services or applied R&D,5,180000
+Developer,Remote,3,Retail,7,57000
+Developer,Remote,11,Retail,2,160000
+Developer,Your choice,25,Media or advertising services,2,150000
+Developer,Remote,33,Software development,7,175000
+Developer,Hybrid,3,Utilities,7,101000
+Developer,Hybrid,5,Software development,10,280000
+Developer,Remote,9,Education,8,86000
+Developer advocate or developer relations professional,Remote,44,Government,9,265000
+Developer,Hybrid,4,Education,8,54000
+Architect,Remote,36,Insurance,7,160000
+Developer,Your choice,11,Fintech,5,210000
+Product manager,Remote,14,IT services,6,120000
+Developer,Remote,25,Education,9,124000
+Support engineer or analyst,Your choice,15,Software development,9,130000
+Developer,Remote,24,Fintech,7,155500
+Developer,Hybrid,10,Software development,7,250000
+Developer,Remote,25,IT services,4,214000
+Developer,Remote,7,Banking/financial services,3,175000
+Developer,Hybrid,6,Government,7,120000
+Architect,Remote,42,IT services,1,140000
+Product manager,In-person,7,Agriculture,9,140000
+Architect,Remote,33,Government,10,120000
+Architect,In-person,18,Retail,8,210000
+Developer,Hybrid,2,Government,3,74000
+Developer,Hybrid,3,Transportation or supply chain,4,76128
+Hardware engineer,In-person,3,Life sciences or biotechnology,7,100000
+Developer,Hybrid,5,Government,5,107000
+Engineering manager,Remote,29,Retail,9,170000
+Support engineer or analyst,Hybrid,27,Other,7,250000
+Developer,Remote,24,Manufacturing,10,128750
+Developer,Your choice,10,Software development,3,180200
+Developer,Remote,21,Education,9,180000
+Architect,In-person,23,Government,8,90000
+Developer,Remote,40,Energy,8,150000
+Developer,Hybrid,11,Fintech,7,155000
+Data engineer,Hybrid,10,Media or advertising services,6,180000
+Developer,Hybrid,42,Engineering services or applied R&D,10,180000
+Developer,Remote,20,Other,8,134000
+Developer,Hybrid,16,Software development,3,30000000
+Developer,Remote,43,Fintech,7,175000
+Developer,Remote,7,Fintech,9,200000
+Data engineer,Remote,10,Energy,6,100000
+Developer,Hybrid,43,Government,7,190000
+Engineering manager,Hybrid,9,Insurance,8,113000
+Architect,Remote,25,Healthcare,8,200000
+Developer,In-person,4,Energy,9,91000
+Architect,Remote,12,Banking/financial services,9,235000
+Solutions engineer,Remote,15,Other,6,110000
+Developer,Hybrid,24,Government,8,130000
+Developer,Hybrid,19,Other,7,730000
+Engineering manager,Hybrid,26,Government,8,175000
+Product manager,Remote,12,Software development,6,145000
+Developer,Remote,18,Software development,8,120000
+Developer,Your choice,14,Software development,6,180000
+Developer,Hybrid,20,Media or advertising services,2,409000
+Developer,In-person,5,Government,6,80000
+Developer,Remote,12,Banking/financial services,9,175000
+Developer,Remote,37,Software development,8,215000
+Developer,Remote,42,Software development,7,135000
+Architect,Hybrid,36,Insurance,8,145000
+Engineering manager,Your choice,41,Software development,8,220000
+Developer,Hybrid,32,Software development,7,128000
+Product manager,Remote,32,Software development,8,365000
+Developer,Hybrid,18,Manufacturing,8,130000
+Engineering manager,Hybrid,28,Other,7,150000
+Developer,In-person,3,Engineering services or applied R&D,8,96000
+Developer,Your choice,12,IT services,8,140000
+System administrator,Hybrid,35,IT services,8,230000
+Cloud infrastructure engineer,Remote,20,Software development,8,205000
+Data engineer,Your choice,25,Healthcare,8,97000
+Developer,Hybrid,20,Mining or construction,5,142000
+Developer,Hybrid,33,Energy,8,151000
+Senior executive,Remote,21,Other,3,500000
+Developer,Remote,20,Transportation or supply chain,7,100000
+Developer,Remote,26,Utilities,8,130000
+Cloud infrastructure engineer,Remote,7,Government,1,140000
+Developer,Your choice,12,Software development,7,125000
+DevOps engineer or professional,Remote,20,Non-profit or social services,6,129000
+Educator or instructor,Hybrid,40,Healthcare,7,140000
+Developer,Hybrid,15,Education,6,95207
+Site reliability engineer,Hybrid,14,Other,7,200000
+Project manager,In-person,20,IT services,9,190000
+Data engineer,Hybrid,3,Media or advertising services,9,170000
+Developer,Remote,31,Government,8,155000
+Developer,Hybrid,12,Other,8,190000
+Developer,Remote,15,Banking/financial services,8,239000
+Developer,Hybrid,12,Transportation or supply chain,9,82200
+Academic researcher,Remote,12,Engineering services or applied R&D,8,90000
+Developer,Remote,20,Software development,7,203000
+Developer,Remote,37,Manufacturing,8,115000
+Developer,Remote,13,Fintech,9,190000
+Developer,Hybrid,5,Engineering services or applied R&D,8,195000
+Developer,Remote,22,Software development,6,195000
+Developer,Hybrid,26,Mining or construction,10,130000
+Other,Remote,1,Mining or construction,5,110000
+Architect,Remote,18,Utilities,5,110000
+Developer,Remote,11,Utilities,6,120000
+Developer,Remote,43,Utilities,4,170000
+Developer,Remote,16,Mining or construction,6,205000
+Developer,Hybrid,10,Education,7,65000
+Developer,Hybrid,28,Software development,7,350000
+Developer,Hybrid,19,Insurance,8,110000
+Developer,Hybrid,10,Banking/financial services,7,185000
+Developer,Remote,9,Media or advertising services,8,150000
+Developer,Hybrid,7,Banking/financial services,10,100000
+Developer,Hybrid,26,Education,8,69000
+Developer,Hybrid,24,Software development,7,260000
+Architect,Your choice,20,Fintech,8,210000
+Developer,Hybrid,9,Banking/financial services,7,136000
+Data engineer,Remote,30,Banking/financial services,0,180000
+Developer,Remote,40,Software development,9,155000
+Developer,Hybrid,10,Insurance,8,100000
+Senior executive,Remote,33,Healthcare,7,415000
+Developer,Remote,23,Education,8,120000
+Developer,Hybrid,9,Other,8,190000
+Other,Hybrid,25,Education,8,90000
+Developer,Remote,12,Hospitality or travel,6,180000
+Developer,Hybrid,38,Healthcare,6,156000
+Developer,Hybrid,9,Healthcare,7,170000
+Developer,Remote,10,Engineering services or applied R&D,8,210000
+Developer,Hybrid,1,Mining or construction,8,76500
+Developer,Remote,20,Retail,7,200000
+Developer,Remote,14,Software development,6,226000
+Data scientist,In-person,13,Education,3,111000
+Developer,Remote,20,Non-profit or social services,6,145000
+Academic researcher,Hybrid,1,Scientific research,4,40000
+Developer,Remote,19,Other,7,170000
+Developer,Remote,10,Agriculture,6,155000
+Developer,Your choice,9,Manufacturing,10,160000
+Developer,Hybrid,21,Engineering services or applied R&D,9,160000
+System administrator,Hybrid,6,Manufacturing,1,149000
+Developer,Remote,8,Retail,9,172000
+Developer,Hybrid,25,Government,4,70000
+Developer,Remote,27,Other,9,85000
+Developer,Hybrid,27,Healthcare,7,200000
+Data engineer,Hybrid,4,Manufacturing,5,80000
+Developer,Remote,23,Insurance,9,154000
+Developer,Remote,10,Education,8,170000
+Academic researcher,Hybrid,3,Scientific research,5,14000
+Developer,In-person,12,Manufacturing,6,90000
+Developer,Remote,22,Other,10,190000
+Developer,Hybrid,2,Software development,9,170000
+Cloud infrastructure engineer,Remote,13,Banking/financial services,8,120000
+Developer,Remote,14,Healthcare,2,205000
+Architect,Remote,23,Software development,6,190000
+Data engineer,Remote,26,Healthcare,8,279000
+System administrator,Hybrid,8,Engineering services or applied R&D,7,30000
+Solutions engineer,Remote,12,IT services,9,200000
+Developer,In-person,36,Government,5,136000
+DevOps engineer or professional,Hybrid,14,Hospitality or travel,7,250000
+Developer,Hybrid,8,Insurance,7,108000
+Developer advocate or developer relations professional,Remote,11,IT services,5,90000
+Data scientist,Remote,24,Insurance,10,305000
+Developer,Hybrid,8,Software development,7,337000
+DevOps engineer or professional,In-person,9,Insurance,7,145000
+Developer,Remote,16,Software development,8,135000
+Data scientist,Remote,3,Media or advertising services,7,190000
+Cybersecurity or InfoSec professional,Hybrid,2,Government,7,81000
+Developer,Remote,15,Utilities,5,97000
+Developer,In-person,5,Government,5,57000
+Developer,Hybrid,2,Healthcare,4,120000
+Developer,Hybrid,8,Healthcare,8,185000
+Developer,Hybrid,11,Banking/financial services,10,110000
+Academic researcher,In-person,1,Scientific research,7,80000
+Developer,Hybrid,40,Scientific research,7,160000
+Developer,Your choice,18,Other,2,223000
+Developer,In-person,1,Software development,8,65000
+Developer,Your choice,6,Life sciences or biotechnology,9,70000
+Developer,Remote,14,Software development,7,180000
+Data scientist,In-person,7,Scientific research,8,184300
+Developer,Hybrid,3,Banking/financial services,6,160000
+Developer,Remote,11,IT services,6,200000
+Data engineer,Remote,19,Transportation or supply chain,7,180000
+Data engineer,Remote,25,Healthcare,7,135000
+Architect,Hybrid,17,Transportation or supply chain,9,150000
+Engineering manager,Remote,36,Software development,9,220000
+Support engineer or analyst,Remote,6,Life sciences or biotechnology,8,210000
+Developer,Remote,31,Insurance,2,186327
+Developer,Remote,28,Banking/financial services,6,145000
+Data or business analyst,Your choice,28,Other,8,135000
+Architect,Hybrid,25,Fintech,8,425000
+Developer,Remote,42,Healthcare,7,131188
+Developer,Remote,11,Fintech,7,135000
+Developer,In-person,9,Fintech,9,700000
+Architect,Remote,21,Software development,7,500000
+Applied scientist,Hybrid,5,Scientific research,7,50000
+Solutions engineer,Remote,10,Education,8,125000
+Developer,Hybrid,15,Transportation or supply chain,5,145000
+Developer,Remote,14,Software development,6,200000
+Developer,Remote,4,Retail,5,89000
+Developer,Hybrid,21,Software development,5,250000
+Developer,Remote,20,Education,9,108000
+Project manager,Remote,34,Utilities,7,190000
+Developer,Remote,2,Software development,9,120000
+Developer,Remote,18,IT services,10,135000
+Developer,Hybrid,7,Software development,9,266000
+Developer,Remote,15,Engineering services or applied R&D,5,190000
+AI/ML engineer,Hybrid,20,Banking/financial services,8,250000
+Developer,In-person,9,Transportation or supply chain,10,300000
+Developer,Hybrid,4,Software development,6,95000
+Solutions engineer,In-person,14,Manufacturing,8,105000
+Developer,Remote,15,Banking/financial services,8,130000
+Developer,Hybrid,14,IT services,9,150000
+Engineering manager,Remote,14,Fintech,7,250000
+Architect,Your choice,31,Other,5,150000
+Developer,Hybrid,3,Insurance,5,114000
+DevOps engineer or professional,Hybrid,18,Life sciences or biotechnology,5,143000
+Developer,Hybrid,5,Retail,5,105000
+Developer,Hybrid,5,Software development,7,110000
+Developer,Remote,6,Software development,8,212750
+Developer,Your choice,13,Software development,4,65000
+Engineering manager,Your choice,14,Other,8,215000
+Engineering manager,Your choice,30,Software development,6,300000
+Engineering manager,Remote,22,Scientific research,1,180000
+Cloud infrastructure engineer,Hybrid,3,Software development,4,220000
+Developer,Hybrid,1,Other,8,83000
+Other,In-person,11,Other,3,200000
+Architect,Hybrid,20,Healthcare,9,160000
+Architect,Hybrid,8,Utilities,2,105000
+Developer,Your choice,20,Healthcare,9,120000
+Architect,Remote,20,Utilities,1,2200000
+Developer,Remote,25,Education,8,150000
+Developer,Hybrid,25,Education,7,160000
+Developer,Remote,15,Software development,5,160000
+Architect,Remote,25,Software development,7,250000
+Developer,In-person,21,Manufacturing,9,300000
+Developer,Remote,15,Government,6,185000
+Developer,Hybrid,2,Retail,9,60000
+Developer,Hybrid,8,Life sciences or biotechnology,7,100000
+Engineering manager,Hybrid,12,Software development,8,333000
+Developer,In-person,9,Government,10,77000
+Developer,In-person,1,Retail,9,178000
+Developer,Remote,1,Software development,8,65000
+Academic researcher,Hybrid,15,Education,9,140000
+Engineering manager,Your choice,39,Scientific research,9,170000
+Developer,In-person,15,Retail,9,145000
+Developer,Remote,6,Engineering services or applied R&D,7,93000
+Engineering manager,Remote,16,Media or advertising services,7,200000
+Developer,In-person,38,Mining or construction,9,115000
+Developer,Hybrid,8,Healthcare,9,160000
+Developer,In-person,3,Retail,3,76000
+Developer,Hybrid,17,Healthcare,7,200000
+Developer,Remote,31,Software development,9,355000
+Developer,Your choice,18,Healthcare,10,250000
+Developer,Hybrid,15,Engineering services or applied R&D,7,150000
+Developer,In-person,1,Software development,9,140000
+Developer,Hybrid,10,Life sciences or biotechnology,9,122000
+Developer,Remote,20,Other,5,75000
+Developer,Remote,19,Hospitality or travel,10,192500
+Developer,In-person,3,Other,7,120000
+Developer,Remote,10,Agriculture,9,175000
+Developer,Hybrid,14,Manufacturing,7,240000
+Applied scientist,Hybrid,12,Government,7,110000
+Architect,Remote,26,Software development,8,240000
+Developer,Hybrid,14,Retail,8,109000
+Developer,Remote,30,Other,7,163000
+Developer,Hybrid,38,Media or advertising services,8,370000
+Developer,Remote,6,Manufacturing,6,130000
+Developer,Remote,1,Media or advertising services,5,35780
+Developer,Hybrid,3,IT services,9,73000
+Developer,Your choice,15,Software development,5,100000
+Developer,Hybrid,7,Banking/financial services,7,76550
+Developer,Your choice,38,Non-profit or social services,9,150000
+Developer,Hybrid,14,Healthcare,6,190000
+Engineering manager,Hybrid,11,Fintech,8,220000
+Developer,Hybrid,16,Software development,5,175000
+Developer,Remote,10,Software development,7,185000
+DevOps engineer or professional,Remote,21,Fintech,6,210000
+Developer,Remote,15,Fintech,7,160000
+Developer,Remote,14,Healthcare,10,154000
+Developer,Hybrid,14,Manufacturing,10,184000
+Developer,Remote,27,IT services,6,88000
+Data engineer,Remote,16,Software development,8,165000
+DevOps engineer or professional,Hybrid,9,Banking/financial services,6,200000
+Academic researcher,In-person,9,Scientific research,8,64620
+Developer,Remote,32,Transportation or supply chain,7,220000
+Academic researcher,In-person,12,Education,10,150000
+Developer,Hybrid,4,Other,7,90000
+Engineering manager,Hybrid,16,Broadcasting or publishing,7,120000
+Developer,Hybrid,30,Energy,9,130000
+Solutions engineer,Hybrid,22,Engineering services or applied R&D,7,148780
+Developer,Hybrid,15,Software development,9,220000
+Developer,Remote,30,Hospitality or travel,8,165000
+Engineering manager,Remote,11,Healthcare,5,171000
+Developer,Hybrid,2,Engineering services or applied R&D,7,120000
+Developer,Hybrid,11,Other,4,415000
+Developer,Hybrid,20,Manufacturing,3,128920
+Developer,Remote,41,Healthcare,8,170000
+Developer,Your choice,6,Other,8,75000
+Database administrator or engineer,Hybrid,2,Media or advertising services,7,90000
+Developer,Hybrid,4,Software development,6,200000
+Developer,Remote,25,Software development,9,131000
+Support engineer or analyst,In-person,6,Education,8,87408
+Developer,Your choice,8,Manufacturing,8,135000
+Architect,Hybrid,32,Government,10,140608
+Developer,Remote,19,Healthcare,8,400000
+Developer,Remote,8,Software development,9,25000
+Developer,Hybrid,35,Fintech,9,157000
+Developer,Hybrid,10,Manufacturing,8,130000
+Developer,Remote,14,Fintech,8,247000
+Developer,Hybrid,10,Software development,8,200000
+Developer,Your choice,9,Education,8,215000
+Developer,Remote,18,Other,8,290000
+Developer,In-person,14,Non-profit or social services,9,88000
+Architect,Remote,14,IT services,10,210000
+Developer,Hybrid,30,Manufacturing,10,150000
+Architect,Remote,13,Hospitality or travel,8,150930
+Data engineer,Remote,5,IT services,3,88000
+Developer,In-person,5,Manufacturing,1,45000
+Developer,Remote,25,Software development,8,129000
+Developer,Hybrid,2,Software development,4,94000
+Developer,Your choice,14,Utilities,7,280000
+Data engineer,Hybrid,3,Media or advertising services,9,170000
+Engineering manager,Hybrid,10,Transportation or supply chain,8,175000
+Developer,Remote,15,Banking/financial services,7,120000
+Developer,Your choice,19,Banking/financial services,9,131000
+Database administrator or engineer,Remote,11,Transportation or supply chain,1,150000
+Developer,In-person,8,Scientific research,6,200000
+Architect,Remote,39,Manufacturing,5,210000
+Developer,Remote,4,Software development,9,48000
+Developer,Remote,15,Other,8,125000
+Developer,In-person,5,Retail,7,110000
+Developer,In-person,21,Software development,4,2300000
+Engineering manager,Remote,12,Life sciences or biotechnology,6,170000
+Developer,Hybrid,4,Manufacturing,9,90000
+Developer,Hybrid,10,Scientific research,8,120000
+Architect,Remote,16,Healthcare,7,290000
+Developer,Remote,26,Engineering services or applied R&D,7,240000
+Developer,Remote,7,Software development,6,125000
+Educator or instructor,In-person,42,Education,8,150000
+Developer,Remote,8,Healthcare,7,132000
+Developer,In-person,12,Software development,7,330000
+Developer,Remote,22,Hospitality or travel,4,215000
+Developer,Hybrid,27,Banking/financial services,7,117000
+Data engineer,In-person,7,Fintech,9,300000
+Architect,Remote,30,Transportation or supply chain,4,200000
+Developer,Hybrid,21,Agriculture,7,124000
+Developer,Remote,47,Other,9,320000
+Engineering manager,Remote,21,Education,5,230000
+Educator or instructor,Remote,26,IT services,9,174000
+Developer,Your choice,25,Banking/financial services,8,328000
+Developer,Remote,27,IT services,5,285000
+Database administrator or engineer,Hybrid,32,Software development,8,110000
+Developer,Hybrid,14,Software development,7,310000
+Developer,In-person,3,Education,8,14400
+Developer,Your choice,17,Retail,5,140000
+Architect,Hybrid,13,Software development,6,197000
+Product manager,Hybrid,11,Software development,6,285000
+Engineering manager,Remote,23,Banking/financial services,7,300000
+Site reliability engineer,Remote,10,IT services,8,160000
+Developer,In-person,25,IT services,7,530000
+Cybersecurity or InfoSec professional,In-person,8,Government,3,133000
+DevOps engineer or professional,In-person,8,Education,9,97000
+Developer,Remote,8,Mining or construction,6,209000
+Developer,Remote,26,Retail,1,180000
+Developer,In-person,1,Government,10,140000
+Data engineer,In-person,30,Other,8,350000
+Senior executive,Your choice,41,Life sciences or biotechnology,8,203000
+Developer,In-person,5,Utilities,7,280000
+Developer,In-person,4,Software development,7,123000
+Senior executive,Remote,26,IT services,10,400000
+Support engineer or analyst,Remote,19,Software development,7,159272
+Database administrator or engineer,In-person,5,Insurance,10,80000
+Developer,Remote,23,IT services,7,135000
+DevOps engineer or professional,Your choice,7,Healthcare,6,110000
+Developer,Remote,30,Healthcare,6,225000
+Developer,Remote,15,Education,2,100000
+Architect,Hybrid,11,Energy,8,214000
+Developer,Hybrid,28,Scientific research,7,150000
+Developer,Your choice,16,Healthcare,7,80000
+Developer,Remote,24,Banking/financial services,8,150000
+Developer,Remote,3,Software development,3,94000
+Developer,Remote,27,Software development,7,100000
+Developer,Remote,12,Government,9,110000
+Developer,Remote,33,Transportation or supply chain,1,130000
+Developer,Remote,10,Government,8,170000
+Architect,Remote,43,Software development,9,200000
+Database administrator or engineer,In-person,5,Banking/financial services,8,180000
+Solutions engineer,In-person,5,Mining or construction,8,200000
+Developer,Hybrid,34,Government,7,120000
+Developer,Hybrid,4,Agriculture,3,80000
+Developer,Hybrid,1,Banking/financial services,3,95000
+Solutions engineer,Remote,20,Software development,7,317000
+Data engineer,In-person,25,Software development,8,175000
+Architect,Remote,23,Other,8,210000
+Developer,Remote,29,Government,9,100000
+Cybersecurity or InfoSec professional,In-person,39,Government,9,190000
+Cloud infrastructure engineer,Remote,20,IT services,6,240000
+DevOps engineer or professional,Hybrid,3,IT services,9,93000
+Developer,Your choice,14,Software development,10,85000
+Developer,Remote,15,Healthcare,10,150000
+DevOps engineer or professional,Remote,28,Software development,8,200000
+Developer,Hybrid,12,Other,8,248000
+Developer,Remote,25,Government,10,151000
+Data scientist,Remote,15,Manufacturing,5,185000
+Developer,Remote,17,Banking/financial services,9,160000
+Developer,Your choice,8,Insurance,6,125000
+Developer,Remote,12,Software development,8,180000
+Developer,Hybrid,4,IT services,6,105000
+Developer,Remote,8,Other,6,138000
+Cloud infrastructure engineer,Remote,19,Agriculture,7,195000
+Architect,Remote,46,Software development,8,187000
+Database administrator or engineer,In-person,4,Insurance,10,80000
+Architect,Hybrid,28,Hospitality or travel,8,200000
+Developer,Remote,40,Insurance,3,135000
+Developer,Remote,9,Healthcare,6,215000
+Developer,In-person,2,IT services,8,110000
+Database administrator or engineer,Hybrid,25,Banking/financial services,9,75000
+Developer,In-person,6,Software development,5,70000
+Developer,In-person,5,IT services,7,65000
+Developer,Your choice,16,Retail,8,200000
+Developer,Your choice,11,Software development,7,184910
+Developer,In-person,1,Manufacturing,8,90000
+Developer,In-person,26,Government,9,190000
+Developer,Remote,3,Insurance,4,90000
+Academic researcher,Hybrid,5,Scientific research,8,96000
+DevOps engineer or professional,Remote,12,IT services,9,87975
+Developer,Your choice,5,Software development,5,190000
+Developer,Remote,35,Energy,10,186000
+Developer,Remote,39,Banking/financial services,8,176800
+Developer,Hybrid,9,Media or advertising services,5,200000
+Developer,In-person,28,Education,8,75000
+Developer,Remote,8,Retail,9,115000
+Developer,Remote,13,Software development,7,316300
+Developer,Remote,1,Software development,5,55000
+Developer,Remote,8,Mining or construction,8,115000
+Developer,In-person,7,Government,6,210000
+Developer,Remote,13,Transportation or supply chain,4,140000
+Developer,Hybrid,13,Life sciences or biotechnology,5,165000
+Developer,Remote,5,IT services,8,51000
+Developer,In-person,16,Engineering services or applied R&D,9,150000
+Developer,Hybrid,11,Energy,8,140000
+Developer,Remote,17,Healthcare,8,300000
+Hardware engineer,Hybrid,15,Healthcare,7,250000
+Developer,In-person,1,Other,2,25000
+Developer,Remote,10,Fintech,2,180000
+Developer,Remote,35,Retail,8,200000
+Developer,In-person,6,Utilities,6,40000
+Developer,Hybrid,7,Government,7,125000
+Applied scientist,Hybrid,17,Government,7,180000
+Developer,Hybrid,10,Other,7,150000
+Engineering manager,Hybrid,22,IT services,8,215000
+Developer,Remote,36,Software development,3,252000
+Developer,Remote,21,Software development,1,187200
+Developer,Hybrid,6,Utilities,5,90000
+Developer,Hybrid,6,Healthcare,2,80000
+Developer,Hybrid,30,Healthcare,8,200000
+Developer,Remote,15,Software development,7,215040
+Academic researcher,Remote,3,Scientific research,0,72000
+Architect,Remote,31,Life sciences or biotechnology,7,180000
+Developer,Remote,13,Education,6,190000
+Developer,Hybrid,6,Life sciences or biotechnology,7,140000
+Developer,Remote,16,Government,3,155000
+Developer,Hybrid,6,Healthcare,8,165000
+Developer,In-person,12,Other,10,180000
+Cybersecurity or InfoSec professional,Hybrid,28,Government,7,245000
+Developer,In-person,4,Other,7,35360
+Developer,Remote,6,Media or advertising services,6,93000
+Data engineer,Hybrid,12,Government,9,190000
+Developer,In-person,4,Manufacturing,3,65000
+Hardware engineer,Hybrid,2,Engineering services or applied R&D,7,160160
+Developer,Hybrid,1,IT services,4,65000
+Engineering manager,Remote,14,Transportation or supply chain,6,175000
+Developer,Hybrid,4,Broadcasting or publishing,4,99000
+Developer,Hybrid,13,Education,9,182000
+Developer advocate or developer relations professional,Remote,29,IT services,6,235000
+Developer,Hybrid,15,Other,5,135000
+Architect,Remote,28,IT services,7,225000
+Hardware engineer,Remote,11,Other,7,130000
+Developer,Your choice,17,Software development,7,110000
+Architect,Hybrid,31,Software development,5,180000
+Developer,Remote,27,Software development,9,150000
+Architect,Remote,28,Education,7,320000
+Developer,Remote,16,Media or advertising services,8,120000
+Developer,Remote,19,Government,3,112000
+Developer,Hybrid,4,Non-profit or social services,8,99000
+Developer,Hybrid,3,Manufacturing,5,80000
+Developer,Hybrid,6,Hospitality or travel,8,127000
+Developer,Your choice,14,Transportation or supply chain,7,75000
+Developer,Hybrid,5,Transportation or supply chain,8,70000
+Developer,Hybrid,20,Life sciences or biotechnology,8,155000
+Architect,Remote,16,Other,10,180000
+Software engineer,Remote,20,Software development,10,330000
+Developer,In-person,6,Software development,2,105000
+Developer,Hybrid,10,Media or advertising services,8,133000
+Developer,Remote,7,Banking/financial services,2,143000
+Other,Remote,21,Retail,2,188000
+AI/ML engineer,Hybrid,14,Software development,9,180000
+AI/ML engineer,Remote,6,IT services,5,90000
+Developer,Hybrid,1,Media or advertising services,5,55000
+Engineering manager,Your choice,15,Healthcare,8,176000
+Founder or entrepreneur,Remote,33,Healthcare,9,350000
+Developer,Hybrid,20,Software development,2,500000
+Architect,Hybrid,25,Software development,6,145000
+System administrator,In-person,1,Manufacturing,8,45000
+Developer,Remote,27,Education,8,140000
+Developer,In-person,2,Other,3,77200
+Developer,Hybrid,40,Government,7,170000
+Developer,In-person,43,Banking/financial services,5,100000
+Developer,Remote,30,IT services,7,200000
+Architect,Hybrid,21,Engineering services or applied R&D,8,250000
+Academic researcher,Hybrid,2,Scientific research,7,40000
+Support engineer or analyst,Remote,20,Scientific research,4,70000
+Data or business analyst,Remote,30,Education,10,150000
+Developer,Hybrid,4,Healthcare,8,141000
+Developer,Remote,26,Engineering services or applied R&D,9,120000
+Developer,Hybrid,15,Media or advertising services,6,85000
+Developer,Remote,10,Other,3,125000
+Developer,Remote,10,Software development,5,117000
+Developer,Remote,26,Hospitality or travel,7,125000
+Developer,In-person,7,Retail,5,160000
+Architect,Remote,12,Healthcare,8,250000
+Architect,Remote,7,Banking/financial services,8,155000
+Developer,Hybrid,15,Healthcare,6,210000
+Developer,Remote,10,Fintech,8,180500
+Developer,Your choice,40,Software development,8,185000
+Data scientist,Hybrid,30,Agriculture,9,150000
+Developer,Hybrid,12,Government,7,140000
+Developer,Hybrid,3,IT services,8,68000
+Architect,Hybrid,32,Media or advertising services,2,280000
+AI/ML engineer,Hybrid,5,Manufacturing,5,160000
+Engineering manager,Remote,16,Software development,7,183000
+Developer,Remote,3,Government,7,100000
+Developer,Remote,18,Fintech,7,130000
+Developer,Remote,21,Utilities,6,105000
+Developer,Remote,33,Software development,6,145000
+Technical writer or documentation professional,Hybrid,21,Software development,5,300000
+Developer,Hybrid,20,Manufacturing,6,120000
+Developer,Hybrid,34,Software development,8,140000
+Developer,In-person,33,Education,9,106000
+Developer,Remote,14,Software development,5,113000
+Developer,Remote,8,Software development,0,177000
+Developer,Hybrid,12,Banking/financial services,8,215000
+Developer,Remote,13,Software development,9,140000
+Applied scientist,Remote,18,Government,8,180000
+Developer,Remote,7,Insurance,3,95000
+Developer,Hybrid,5,Agriculture,8,100000
+Developer,Remote,27,Media or advertising services,7,190000
+Developer,Remote,22,Software development,10,189000
+Developer,Remote,18,Software development,8,101000
+Developer,Remote,14,Insurance,9,150000
+Developer,In-person,1,Other,9,86400
+Developer,Your choice,10,Software development,8,273671
+Developer,In-person,45,Manufacturing,8,115000
+Educator or instructor,In-person,5,Education,9,150000
+Developer,Remote,47,Software development,9,131000
+Developer,Remote,8,Retail,3,100000
+Developer,Hybrid,15,Utilities,5,129000
+Developer,Remote,14,Insurance,7,132500
+Developer,Remote,11,Fintech,6,155000
+Developer,Your choice,8,Engineering services or applied R&D,6,135000
+Developer,Remote,31,Utilities,8,145000
+Hardware engineer,Hybrid,3,Software development,7,160000
+Developer,Remote,12,Media or advertising services,9,184607
+Developer,In-person,13,Media or advertising services,6,200000
+Developer,Hybrid,5,Engineering services or applied R&D,7,135000
+Developer,Hybrid,17,Healthcare,7,180000
+Data or business analyst,In-person,5,Manufacturing,6,62500
+Developer,Remote,7,Other,6,175000
+Developer,Remote,19,Software development,6,225000
+DevOps engineer or professional,Hybrid,11,Other,9,145000
+System administrator,Hybrid,22,IT services,0,135000
+Developer,In-person,7,Manufacturing,6,64000
+Developer,Remote,24,Software development,8,135000
+Data engineer,Hybrid,5,Banking/financial services,9,152000
+Data scientist,Your choice,8,Insurance,3,135000
+Developer,In-person,5,Healthcare,2,97500
+Educator or instructor,Hybrid,31,Education,7,105000
+Developer,Hybrid,30,Other,5,225000
+Developer,Hybrid,4,Manufacturing,9,81000
+Engineering manager,Remote,9,Software development,7,208000
+Data scientist,Remote,13,Retail,8,130000
+Developer,In-person,15,Software development,2,198000
+Cybersecurity or InfoSec professional,In-person,1,Banking/financial services,7,120000
+Data engineer,Remote,10,Media or advertising services,2,192500
+Architect,Remote,15,Fintech,2,130000
+Developer,Remote,32,Software development,1,180000
+Developer,Remote,27,Healthcare,7,200000
+Developer,Remote,40,Education,6,100000
+Data engineer,Remote,14,Retail,8,356000
+Academic researcher,In-person,16,Government,7,115000
+Developer,Remote,18,Utilities,9,170000
+Developer,Hybrid,8,Software development,5,243000
+Data or business analyst,Hybrid,28,Government,5,80000
+Developer,Hybrid,8,Engineering services or applied R&D,6,146000
+Site reliability engineer,Remote,25,Software development,7,250000
+Developer,Remote,16,Healthcare,7,196000
+Developer,Remote,21,Retail,7,177000
+Developer,Remote,8,Healthcare,7,128000
+Data engineer,Hybrid,3,Banking/financial services,8,177000
+Developer,Your choice,10,Manufacturing,8,120000
+Developer,Remote,28,Government,8,140000
+Developer,Hybrid,5,Utilities,8,115000
+Developer,In-person,10,Software development,6,60000
+DevOps engineer or professional,Remote,8,Retail,6,180000
+Developer,Hybrid,2,Transportation or supply chain,6,70000
+Developer,Remote,28,Government,5,160000
+Developer,Hybrid,16,Education,9,82000
+Architect,Remote,30,Software development,7,250000
+Developer,Hybrid,21,Other,10,160000
+Project manager,Remote,20,IT services,6,140000
+Developer,Hybrid,4,Fintech,7,130000
+Developer,Hybrid,32,Government,8,142930
+Architect,Remote,8,Retail,9,180000
+Developer,Remote,8,Government,7,200000
+Solutions engineer,Remote,22,IT services,4,205000
+DevOps engineer or professional,Remote,20,Utilities,7,233000
+Developer,Remote,35,Retail,8,212000
+Developer,Hybrid,6,Utilities,9,85276
+Developer,Remote,40,Utilities,5,123000
+Data or business analyst,Hybrid,15,Life sciences or biotechnology,4,142000
+Developer,Remote,27,Healthcare,7,184000
+AI/ML engineer,Hybrid,10,Engineering services or applied R&D,8,160000
+Developer,In-person,15,Retail,0,280000
+Developer,Remote,16,Software development,7,145000
+Developer,Remote,14,Software development,9,190000
+Data engineer,Hybrid,20,IT services,9,105000
+Senior executive,Remote,17,Education,7,170000
+AI/ML engineer,Remote,17,Software development,10,1000000
+Cybersecurity or InfoSec professional,Hybrid,25,Manufacturing,3,180000
+DevOps engineer or professional,Hybrid,46,Other,7,120000
+Developer,Hybrid,15,Other,6,141000
+Developer,Remote,11,Software development,7,200000
+Developer,Remote,30,Banking/financial services,7,190000
+Developer,Hybrid,1,Manufacturing,7,250000
+Developer,Remote,10,IT services,6,210000
+Developer,Hybrid,10,Software development,6,600000
+Data engineer,Remote,9,Manufacturing,7,165000
+Other,Hybrid,18,Government,6,145000
+Architect,In-person,29,Manufacturing,10,200000
+Developer,In-person,24,Healthcare,5,242000
+Developer,Remote,21,Transportation or supply chain,7,105000
+Developer,Remote,8,Insurance,2,158000
+Senior executive,In-person,30,Banking/financial services,6,200000
+Developer,Remote,17,Software development,2,350000
+AI/ML engineer,Remote,50,IT services,10,160000
+Developer,In-person,10,Software development,4,200000
+Cloud infrastructure engineer,Remote,21,IT services,7,175000
+Developer,Remote,6,Software development,8,90000
+Developer,Hybrid,7,Retail,8,150000
+Product manager,Your choice,10,Energy,7,215000
+Data scientist,Remote,12,Agriculture,7,175000
+Developer,Remote,12,Insurance,4,140000
+Engineering manager,Remote,18,Energy,7,111000
+Applied scientist,Hybrid,14,Energy,8,250000
+Other,In-person,1,Manufacturing,9,52000
+Architect,Remote,11,IT services,10,170000
+Developer,Hybrid,11,Retail,7,140000
+Applied scientist,Hybrid,7,Agriculture,7,102000
+Senior executive,Remote,13,Retail,0,205000
+Developer,In-person,10,Government,8,191000
+Developer,Remote,10,Insurance,4,135000
+Engineering manager,Remote,11,Software development,6,290000
+Developer,Hybrid,7,Healthcare,8,128000
+Cloud infrastructure engineer,Remote,10,Software development,8,350000
+Hardware engineer,In-person,15,IT services,9,115000
+Developer,Remote,8,Software development,6,90000
+Developer,Remote,8,Software development,9,300000
+Developer,Remote,25,Life sciences or biotechnology,6,150000
+AI/ML engineer,Hybrid,4,Software development,4,140000
+Developer,Remote,16,IT services,2,430000
+Developer,In-person,3,Government,6,100000
+Developer,Hybrid,12,IT services,6,95000
+Developer,Hybrid,15,Energy,7,111000
+Architect,Remote,14,Other,7,150000
+Applied scientist,Remote,4,Software development,8,160000
+Developer,Hybrid,9,Scientific research,8,140200
+Developer,Remote,6,Education,7,115000
+Developer,Remote,13,Software development,7,140000
+Developer,Remote,10,IT services,6,60000
+Engineering manager,Hybrid,15,Life sciences or biotechnology,6,260000
+Developer,Your choice,2,Banking/financial services,3,60020
+Developer,Remote,8,Software development,9,215000
+Developer,Hybrid,2,Hospitality or travel,9,90000
+Data scientist,Hybrid,40,Life sciences or biotechnology,9,180000
+Developer,Remote,22,Retail,5,140000
+Developer,Remote,17,Government,6,116000
+Developer,Remote,8,Software development,7,135000
+Developer,Hybrid,12,Software development,10,400000
+Developer,Remote,18,Other,6,143000
+Developer,Hybrid,10,Media or advertising services,8,135000
+Developer,Hybrid,17,Transportation or supply chain,4,195000
+Architect,Remote,37,Healthcare,4,185000
+Developer,Your choice,16,Software development,6,195000
+Developer,Remote,4,Scientific research,5,80000
+Developer,In-person,30,Banking/financial services,7,80000
+Developer,Hybrid,6,Retail,6,90000
+Developer,Remote,31,Government,8,179000
+Data engineer,Hybrid,7,Banking/financial services,8,200000
+Developer,Hybrid,5,Education,3,105000
+Developer,Remote,32,Education,10,220000
+Developer,Remote,15,IT services,3,50000
+Hardware engineer,Hybrid,9,Utilities,8,117000
+Developer,Hybrid,18,Healthcare,9,210000
+Senior executive,Remote,17,Life sciences or biotechnology,10,240000
+Architect,Your choice,10,Healthcare,8,300000
+Developer,Hybrid,20,Manufacturing,8,95000
+Engineering manager,Remote,16,Other,5,184480
+Developer,In-person,3,Software development,10,123000
+Developer,Remote,6,Insurance,7,176000
+Software engineer,Remote,16,Other,3,133000
+Platform engineer,In-person,18,Education,8,100000
+Developer,Remote,8,Healthcare,6,137700
+Developer,Hybrid,20,Media or advertising services,9,565000
+Site reliability engineer,Hybrid,20,IT services,8,245000
+Solutions engineer,In-person,7,Manufacturing,8,145000
+Developer,Remote,33,Retail,4,200000
+Software engineer,In-person,6,Fintech,6,500000
+Developer,Hybrid,14,Other,7,188500
+Developer,Remote,3,Mining or construction,7,52000
+Developer,In-person,9,Retail,4,140000
+Academic researcher,In-person,17,Government,10,250000
+Developer,Remote,10,Transportation or supply chain,9,125000
+Cloud infrastructure engineer,Hybrid,8,Mining or construction,9,120000
+Developer,Remote,6,Software development,6,185000
+Developer,Remote,45,IT services,8,85000
+Architect,Hybrid,14,Manufacturing,7,155000
+Engineering manager,Remote,22,Education,7,170000
+Senior executive,Remote,12,Energy,8,350000
+Engineering manager,Hybrid,12,Healthcare,7,200000
+Developer,Hybrid,20,Manufacturing,7,220000
+Developer,Remote,20,Other,7,603000
+Architect,Hybrid,19,Government,7,190000
+Site reliability engineer,Remote,14,Hospitality or travel,4,245000
+Developer,Remote,10,Fintech,7,150000
+Developer,Remote,14,Media or advertising services,3,85000
+Developer,Remote,12,Software development,9,130000
+Academic researcher,In-person,7,Engineering services or applied R&D,9,200000
+Developer,Remote,16,Education,7,180000
+Developer,Remote,19,Healthcare,10,195000
+Developer,Remote,3,Government,8,123000
+AI/ML engineer,Hybrid,2,Engineering services or applied R&D,7,100000
+Developer,In-person,27,Education,7,50000
+Developer,Remote,15,Banking/financial services,8,150000
+Developer,Remote,13,Fintech,6,180000
+Developer,Hybrid,9,Software development,7,140000
+Developer,Remote,30,Other,9,178000
+Developer,Remote,16,Insurance,7,120000
+Developer,Remote,16,Healthcare,7,168000
+Developer,Remote,17,Software development,7,190000
+Academic researcher,Hybrid,32,Healthcare,10,110000
+Architect,Remote,16,Healthcare,8,185000
+Developer,Hybrid,16,IT services,6,155000
+Architect,Hybrid,8,Transportation or supply chain,8,140000
+Developer,Remote,10,Government,5,160000
+Developer,Remote,5,Broadcasting or publishing,4,110000
+Developer,Remote,10,IT services,8,235000
+Architect,Remote,20,IT services,7,150000
+Developer,Hybrid,20,Software development,7,400000
+Developer,In-person,1,IT services,4,55000
+Developer,Remote,18,Other,7,447250
+Engineering manager,Remote,19,Healthcare,4,210000
+Hardware engineer,In-person,21,Government,10,125000
+Developer,Remote,11,Healthcare,3,117000
+Developer,Remote,11,Fintech,9,104000
+Developer,Remote,37,Government,8,156000
+Hardware engineer,In-person,6,Other,7,120000
+Developer,In-person,9,Government,5,155664
+Developer,Remote,6,Utilities,8,126000
+Applied scientist,Hybrid,4,Scientific research,5,80000
+Developer,Remote,28,Retail,4,160000
+Solutions engineer,In-person,3,IT services,5,123900
+Developer,Remote,28,Government,7,170000
+Developer,Remote,4,Healthcare,7,90000
+Developer,In-person,42,IT services,0,360000
+Developer,In-person,5,Retail,5,100000
+Developer,Remote,27,Banking/financial services,8,194000
+Founder or entrepreneur,Remote,11,Banking/financial services,7,102000
+Architect,Remote,25,Other,7,170000
+Developer,Remote,16,IT services,5,206000
+Developer,Your choice,25,Other,10,300000
+Developer,Remote,20,Education,7,220000
+Developer,Hybrid,18,Government,7,150000
+Developer,Remote,14,Engineering services or applied R&D,10,205000
+Data scientist,Hybrid,7,Insurance,7,140000
+Project manager,In-person,3,Software development,9,114400
+Developer,Remote,24,Transportation or supply chain,7,100000
+Developer,In-person,8,Government,9,135000
+Developer,Remote,12,Education,7,185000
+Developer,In-person,2,Government,9,80000
+Developer,Your choice,5,Engineering services or applied R&D,7,55000
+Developer,Remote,15,Software development,9,150000
+Developer,Remote,30,Healthcare,7,165000
+Developer,Hybrid,3,Engineering services or applied R&D,7,110000
+Data scientist,In-person,9,Other,7,53000
+Developer,In-person,25,Engineering services or applied R&D,8,520000
+Architect,Remote,11,Retail,9,250000
+Data engineer,Hybrid,16,Healthcare,5,125000
+Developer,In-person,2,Scientific research,10,115000
+Developer,Remote,8,Government,8,120000
+Developer,Hybrid,9,Insurance,7,150000
+Architect,Hybrid,9,IT services,4,90000
+Developer,In-person,1,Transportation or supply chain,8,65000
+Developer,Remote,8,Software development,5,300000
+Developer,Remote,10,Healthcare,4,125000
+Developer,In-person,5,Manufacturing,2,89000
+Engineering manager,Remote,34,IT services,3,263000
+Data scientist,Hybrid,10,Software development,3,196350
+Developer,Hybrid,25,Manufacturing,10,118000
+Other,Hybrid,15,Broadcasting or publishing,9,131500
+Developer,Remote,15,Utilities,9,120000
+Developer,Hybrid,14,Fintech,1,143000
+Developer,Remote,10,Insurance,6,190000
+Developer,In-person,28,Government,8,105000
+Developer,Hybrid,12,Software development,9,145250
+Data engineer,Hybrid,4,IT services,7,90000
+Data scientist,Your choice,35,Fintech,9,200000
+Developer,Hybrid,5,Manufacturing,6,160000
+Developer,Remote,20,Fintech,6,400000
+Support engineer or analyst,Your choice,12,Transportation or supply chain,3,50000
+Developer,Remote,13,Software development,8,220000
+Developer,Hybrid,14,Media or advertising services,8,250000
+Engineering manager,Hybrid,7,Software development,7,180000
+Cybersecurity or InfoSec professional,In-person,10,Engineering services or applied R&D,4,41000
+Developer,Hybrid,11,IT services,9,180000
+DevOps engineer or professional,Hybrid,1,Government,4,90000
+Data engineer,Remote,40,Engineering services or applied R&D,8,193000
+Developer,Hybrid,8,IT services,7,150000
+Architect,Hybrid,21,Insurance,8,200000
+Developer,Remote,40,Engineering services or applied R&D,7,129000
+Developer,In-person,42,Government,3,85000
+Software engineer,Remote,5,Retail,7,34320
+Developer,Remote,5,Banking/financial services,7,85000
+Developer,Remote,11,Banking/financial services,7,113850
+Developer,Remote,5,Software development,10,220000
+Developer,Remote,4,Healthcare,9,115000
+Developer,In-person,11,Banking/financial services,9,177646
+Data engineer,Hybrid,13,Banking/financial services,8,240000
+Developer,Remote,11,Healthcare,5,175000
+Developer,In-person,2,Manufacturing,9,91500
+Developer,Hybrid,22,Software development,8,500000
+Data scientist,Hybrid,7,Scientific research,7,124000
+Software engineer,Your choice,5,Energy,10,85000
+Developer,In-person,20,Government,8,215000
+Developer,Remote,11,Retail,3,320000
+Student,In-person,1,Manufacturing,6,40000
+Developer,Remote,27,Media or advertising services,6,80000
+Site reliability engineer,Remote,6,Government,6,102000
+Hardware engineer,In-person,1,Other,8,92000
+Engineering manager,Remote,26,Healthcare,9,200000
+Architect,Hybrid,21,Fintech,7,135000
+Data or business analyst,Remote,5,Banking/financial services,5,48000
+Developer,Remote,15,Utilities,4,220000
+Developer,In-person,29,Retail,6,213000
+Developer,Hybrid,26,Software development,7,180000
+Developer,Remote,6,Manufacturing,9,130000
+Developer,Remote,13,Life sciences or biotechnology,0,126000
+Architect,Your choice,30,Engineering services or applied R&D,6,75000
+Developer,Remote,4,Other,2,74300
+Hardware engineer,Hybrid,12,Other,9,210000
+Developer,In-person,5,Manufacturing,8,100000
+DevOps engineer or professional,Remote,9,Retail,1,135000
+Developer,Hybrid,10,Media or advertising services,5,172000
+Architect,Remote,9,Software development,7,117000
+DevOps engineer or professional,Your choice,12,Insurance,6,210000
+Developer,Hybrid,48,Engineering services or applied R&D,10,160000
+Data or business analyst,Hybrid,40,Other,8,30000
+DevOps engineer or professional,In-person,4,Energy,9,125000
+Developer,Remote,8,Other,8,132000
+Developer,Hybrid,25,Fintech,7,500000
+Developer,In-person,9,Government,8,130000
+AI/ML engineer,Hybrid,7,Government,6,193000
+Architect,Hybrid,15,Government,6,149000
+Developer,Hybrid,27,Software development,8,300000
+Developer,Remote,3,Retail,8,100000
+Developer,Remote,14,IT services,3,235000
+Developer,Remote,21,Energy,6,135000
+Developer,Hybrid,6,IT services,8,137000
+Educator or instructor,In-person,16,Education,6,92335
+Senior executive,Remote,37,IT services,5,205000
+Developer,Hybrid,19,IT services,8,101000
+Developer,Remote,17,Government,7,230000
+Developer,Remote,3,Transportation or supply chain,10,120000
+Developer,Hybrid,7,Other,9,105000
+Engineering manager,Remote,16,Other,8,225000
+Developer,In-person,3,Engineering services or applied R&D,7,180000
+Developer,Remote,40,Software development,4,235000
+Architect,In-person,20,Government,9,198000
+Developer,In-person,45,Utilities,8,200000
+Engineering manager,Hybrid,26,Fintech,8,245000
+Developer,Hybrid,14,Software development,5,430000
+Data or business analyst,In-person,1,Non-profit or social services,8,45000
+Developer,Remote,23,Government,8,150000
+Cloud infrastructure engineer,Remote,13,Software development,6,161000
+Developer,In-person,6,Manufacturing,6,41000
+DevOps engineer or professional,Your choice,20,Government,8,180000
+Architect,Remote,20,IT services,9,95000
+Developer,Hybrid,31,Software development,8,100000
+Data or business analyst,Remote,15,Healthcare,10,160000
+Developer,Hybrid,17,Education,10,250000
+Developer,In-person,53,Software development,9,163000
+Project manager,Your choice,11,Education,4,115000
+Developer,Remote,30,IT services,5,120000
+Developer,In-person,13,Banking/financial services,6,150000
+Engineering manager,Hybrid,31,Other,2,230000
+Developer,Hybrid,11,Manufacturing,8,113000
+Developer,In-person,10,Scientific research,7,135000
+Developer,Remote,10,Software development,7,200000
+Developer,Hybrid,7,Media or advertising services,4,290000
+Developer,Remote,9,Education,9,95000
+Developer,Remote,15,Transportation or supply chain,5,210000
+Developer,Remote,12,Healthcare,7,215000
+Developer,Hybrid,18,Energy,7,176000
+Developer,Remote,30,Manufacturing,9,115000
+Engineering manager,Hybrid,8,Energy,6,300000
+Data or business analyst,Remote,7,Government,7,112000
+Founder or entrepreneur,Hybrid,2,Software development,7,140000
+Developer,Remote,12,Other,8,115000
+Developer,Remote,10,Insurance,2,160000
+Project manager,Hybrid,28,Software development,5,500000
+Developer,In-person,2,Transportation or supply chain,7,75000
+AI/ML engineer,Remote,16,Engineering services or applied R&D,9,222222
+Developer,Hybrid,20,Government,2,180000
+Architect,Hybrid,4,Retail,5,100000
+Senior executive,Remote,25,Software development,8,335000
+Architect,Your choice,15,Manufacturing,9,115000
+Developer,Hybrid,10,Software development,8,177000
+Developer,Remote,21,Fintech,8,140000
+Developer,In-person,2,Education,8,120000
+Developer,Remote,10,Software development,8,500000
+Senior executive,Your choice,10,Transportation or supply chain,7,175000
+Data engineer,Hybrid,20,IT services,7,110000
+Architect,Remote,32,Healthcare,7,175000
+Developer,Your choice,16,Retail,7,250000
+Developer,Hybrid,9,Non-profit or social services,4,65000
+Developer,Hybrid,30,Other,4,140000
+Developer,Remote,10,IT services,1,163000
+Developer,Remote,14,Engineering services or applied R&D,10,70000
+Developer,Remote,13,Software development,7,160000
+Marketing/Sales professional,Remote,25,Healthcare,10,20000
+Software engineer,In-person,6,Scientific research,7,93000
+Senior executive,Your choice,23,Other,5,250000
+Developer,Hybrid,5,Transportation or supply chain,8,105000
+Developer,Remote,30,IT services,7,75000
+Developer,Hybrid,4,Utilities,8,77000
+Developer,Remote,24,Banking/financial services,6,180000
+Data or business analyst,Hybrid,16,Manufacturing,9,116000
+Data engineer,Remote,11,Retail,8,154000
+Developer,In-person,9,Healthcare,9,220000
+Developer,Hybrid,20,Other,8,185000
+Developer,Remote,5,Media or advertising services,6,150000
+Developer advocate or developer relations professional,Hybrid,2,IT services,10,175000
+Developer,Hybrid,12,IT services,7,100000
+Developer,Remote,20,Retail,10,175000
+Architect,Remote,11,IT services,9,400000
+Architect,Remote,15,IT services,9,114000
+Developer,In-person,24,Software development,4,450000
+Developer,Remote,14,Media or advertising services,7,200000
+Developer,Remote,12,Other,10,240000
+Developer,Your choice,15,Government,3,129000
+Data scientist,In-person,17,Government,8,120000
+Developer,In-person,6,Government,10,70000
+Developer,Hybrid,15,Other,10,230000
+Software engineer,In-person,20,Education,3,60000
+Senior executive,Remote,22,IT services,8,225000
+Developer,Remote,25,Broadcasting or publishing,3,215000
+Developer,Remote,33,Software development,8,250000
+Developer,Remote,41,Banking/financial services,6,175000
+Developer,Remote,29,Agriculture,8,128000
+Cybersecurity or InfoSec professional,Hybrid,14,IT services,2,250000
+Developer,Remote,13,Fintech,6,141000
+Developer,Hybrid,20,Hospitality or travel,9,500000
+Developer,Hybrid,8,Government,7,180000
+Developer,Remote,2,Media or advertising services,2,158800
+Developer,Your choice,61,Healthcare,7,160000
+Architect,Remote,37,Healthcare,9,210000
+Developer,Remote,20,IT services,3,100000
+Developer,Hybrid,30,Banking/financial services,7,125000
+Developer,Remote,27,Other,7,108000
+Developer,In-person,20,Retail,10,148000
+Developer,Remote,14,Software development,10,215000
+Senior executive,Hybrid,17,Other,7,100000
+Architect,Remote,19,Healthcare,7,170000
+Hardware engineer,In-person,35,Government,8,85000
+Developer advocate or developer relations professional,Remote,29,IT services,10,500000
+Site reliability engineer,Remote,14,Software development,7,500000
+Developer,Remote,4,Education,7,145000
+Developer,Remote,22,Media or advertising services,7,180000
+Developer,Hybrid,16,Non-profit or social services,6,135000
+Data or business analyst,In-person,11,Healthcare,6,79000
+Developer,Remote,27,Fintech,9,194000
+Developer,Hybrid,25,Government,9,186000
+Support engineer or analyst,Remote,15,IT services,3,88000
+System administrator,Your choice,21,Energy,6,120000
+Developer,Remote,15,Software development,4,200000
+System administrator,In-person,17,Government,8,78000
+Developer,In-person,10,Engineering services or applied R&D,9,140000
+Developer,Remote,12,Software development,9,230000
+Engineering manager,Remote,26,Retail,4,450000
+Senior executive,Remote,17,IT services,10,275000
+Developer,In-person,4,Manufacturing,7,192000
+Developer,Your choice,31,Broadcasting or publishing,9,195000
+Data engineer,Remote,9,Software development,8,190000
+Developer,Remote,15,Retail,9,160000
+Engineering manager,Your choice,12,Healthcare,9,230000
+Cybersecurity or InfoSec professional,Remote,11,Banking/financial services,8,167500
+Developer,In-person,3,Transportation or supply chain,6,70000
+Developer,In-person,12,Insurance,8,120000
+Developer,Remote,31,Engineering services or applied R&D,2,195000
+Developer,Your choice,22,Non-profit or social services,9,95000
+Solutions engineer,Remote,30,IT services,5,200000
+Academic researcher,Hybrid,1,Scientific research,3,33200
+Developer,Remote,39,Government,8,115000
+Developer,Remote,34,Education,9,185000
+Developer,In-person,14,Transportation or supply chain,7,100000
+Developer,Hybrid,22,Media or advertising services,2,500000
+Software engineer,Remote,12,Other,7,275000
+Developer,In-person,20,Retail,7,210000
+Developer,Hybrid,25,Manufacturing,3,127000
+Developer,Remote,5,Healthcare,10,146000
+Data engineer,Hybrid,5,Transportation or supply chain,10,149648
+Developer,Remote,35,Other,8,150000
+AI/ML engineer,Remote,29,Government,8,200000
+Software engineer,In-person,2,Scientific research,10,54000
+Developer,Hybrid,15,Government,4,140000
+Developer,Remote,10,Healthcare,7,146000
+Architect,Hybrid,29,Banking/financial services,6,168000
+Applied scientist,Remote,10,Fintech,6,240000
+Developer,Your choice,8,Transportation or supply chain,2,104000
+Site reliability engineer,Remote,5,Software development,8,150000
+Engineering manager,Remote,20,Software development,7,200000
+Developer,Remote,11,IT services,1,190000
+Developer,Remote,18,Insurance,3,165000
+Student,In-person,3,Engineering services or applied R&D,8,15000
+Developer,Remote,11,Software development,9,230000
+Developer,Remote,18,Education,4,204000
+Developer,Remote,30,Software development,10,200000
+Applied scientist,Hybrid,20,Media or advertising services,8,500000
+Developer,Hybrid,30,Healthcare,7,120000
+Developer,Remote,28,Fintech,5,110000
+Architect,Remote,23,Insurance,5,202245
+Developer,Hybrid,14,Other,7,120000
+AI/ML engineer,Hybrid,9,Government,8,108000
+Developer,Remote,16,Scientific research,9,143000
+Developer,Remote,8,Banking/financial services,7,138776
+Developer,In-person,12,Other,7,700000
+Architect,Remote,26,Software development,3,400000
+Developer,Remote,5,Government,6,128000
+Developer,Remote,7,Manufacturing,3,145000
+Developer,Remote,12,Fintech,8,175000
+Developer,Remote,12,Non-profit or social services,8,112000
+Developer,Hybrid,30,Healthcare,9,135000
+Developer,Hybrid,28,Insurance,9,94000
+Senior executive,Hybrid,40,Retail,5,320000
+Developer,Hybrid,2,Other,6,70000
+Data scientist,Hybrid,26,Scientific research,7,130000
+Developer,Remote,20,Transportation or supply chain,6,105000
+Developer,Your choice,11,Retail,5,396000
+Developer,Hybrid,4,Fintech,5,155000
+Developer,Hybrid,12,Retail,4,205000
+Developer,In-person,4,Other,4,101000
+Developer,Remote,25,Fintech,3,145000
+Developer,Hybrid,3,Government,10,85000
+Developer,In-person,36,Manufacturing,8,185000
+Developer,Remote,9,Manufacturing,7,350000
+Architect,Remote,33,Other,8,200000
+Developer,Hybrid,21,Software development,10,160000
+Developer,Remote,20,Banking/financial services,7,250000
+Developer,Remote,12,Transportation or supply chain,2,170000
+Architect,In-person,18,Manufacturing,7,140000
+Developer,Remote,30,Software development,0,235000
+Developer,In-person,23,Media or advertising services,9,130000
+Senior executive,In-person,20,Engineering services or applied R&D,10,135000
+Developer,In-person,1,Government,3,56000
+AI/ML engineer,Hybrid,16,Fintech,3,500000
+Developer,Hybrid,14,Banking/financial services,5,120000
+Developer,Remote,18,Hospitality or travel,5,260000
+Educator or instructor,In-person,2,Education,10,55000
+Data engineer,Remote,18,Retail,7,179000
+Developer,Remote,13,Transportation or supply chain,10,145000
+Developer,In-person,8,Retail,8,92820
+Architect,Hybrid,7,Non-profit or social services,9,150000
+Developer,Hybrid,14,Software development,7,135000
+Developer,Remote,30,Fintech,4,185000
+Developer,Your choice,16,Non-profit or social services,9,153000
+Developer,In-person,9,Utilities,8,110000
+Data engineer,Hybrid,28,Insurance,10,250000
+AI/ML engineer,Remote,30,Other,7,200000
+Architect,Hybrid,26,Software development,8,250000
+Developer,Remote,20,Government,9,155000
+Developer,Remote,28,Education,9,160000
+Project manager,Remote,19,Media or advertising services,8,95000
+Developer,Hybrid,3,Government,8,82000
+Developer,Hybrid,40,Non-profit or social services,9,110000
+Software engineer,Remote,18,Education,8,205000
+Developer,In-person,11,Scientific research,7,150000
+Developer,In-person,7,Banking/financial services,7,260000
+Database administrator or engineer,Hybrid,35,Agriculture,4,80000
+Developer,Hybrid,17,Retail,3,475000
+Developer,Hybrid,37,Government,2,110000
+Engineering manager,Remote,9,Transportation or supply chain,8,306000
+Data scientist,Remote,28,Healthcare,6,148000
+Developer,Hybrid,23,Software development,2,250000
+DevOps engineer or professional,Your choice,7,Other,7,157000
+Developer,Hybrid,8,Healthcare,9,163000
+Developer,Hybrid,13,Software development,6,220000
+Developer,Remote,15,Government,9,184000
+Developer,Remote,5,IT services,6,150000
+Site reliability engineer,Remote,18,Utilities,5,300000
+Developer,Remote,41,Broadcasting or publishing,8,155000
+Architect,Remote,12,Other,8,220000
+Developer,Remote,23,Software development,8,140000
+Developer,Remote,25,IT services,4,145000
+Developer,Hybrid,21,Utilities,6,194000
+Project manager,Remote,35,IT services,9,180000
+Academic researcher,Remote,6,Scientific research,7,170000
+Architect,Hybrid,22,Software development,4,240000
+Developer,Hybrid,14,Government,8,185000
+System administrator,In-person,4,Government,6,86000
+Developer,Hybrid,8,Healthcare,5,204000
+Developer,Remote,1,Healthcare,8,104000
+Developer,Remote,13,Software development,9,376000
+Developer,Hybrid,30,Other,8,140000
+Developer,Your choice,26,Utilities,10,300000
+Developer,In-person,1,Scientific research,8,100000
+Cloud infrastructure engineer,Remote,15,Government,1,165000
+Developer,Remote,9,Government,7,185000
+Developer,Hybrid,4,Education,8,80000
+Cybersecurity or InfoSec professional,Remote,19,Utilities,10,376000
+DevOps engineer or professional,Remote,35,Government,7,175000
+Developer,Your choice,2,Software development,6,70000
+Developer,Hybrid,15,Transportation or supply chain,2,135000
+Developer,Remote,34,Education,7,110000
+Developer,Hybrid,19,Transportation or supply chain,8,325000
+Developer,In-person,3,Agriculture,7,43680
+Developer,Remote,11,Healthcare,4,190000
+Developer,In-person,4,Software development,8,90000
+Developer,Remote,12,Transportation or supply chain,1,260000
+Developer,In-person,18,Software development,2,500000
+DevOps engineer or professional,Your choice,6,Fintech,3,130000
+Architect,Hybrid,12,IT services,6,130000
+Developer,Remote,20,Other,10,240000
+Data engineer,Hybrid,9,Life sciences or biotechnology,7,130000
+Developer,In-person,17,Retail,9,200000
+Developer,Remote,33,Media or advertising services,2,300000
+Developer,Your choice,15,Manufacturing,8,165000
+Developer,In-person,8,Retail,4,72000
+Educator or instructor,In-person,2,Education,9,175000
+Developer,Remote,10,Healthcare,7,134651
+Developer,In-person,4,Transportation or supply chain,9,145000
+Developer,Hybrid,1,Government,5,21000
+Developer,Your choice,10,Government,8,150000
+Developer,Your choice,12,Scientific research,8,88000
+Developer,Remote,10,Software development,6,190000
+Architect,Remote,18,Software development,10,202000
+Developer,Remote,26,Other,8,200000
+Developer,Your choice,23,Manufacturing,7,106553
+Academic researcher,Hybrid,25,Scientific research,9,180000
+Developer,Hybrid,13,Utilities,7,550000
+Architect,Hybrid,21,Healthcare,1,200000
+Architect,Remote,33,Other,8,180000
+Architect,Hybrid,31,Engineering services or applied R&D,7,130000
+Developer,Hybrid,12,Media or advertising services,8,1900000
+Developer,Remote,10,Engineering services or applied R&D,4,135000
+Architect,Hybrid,19,Manufacturing,6,160000
+Engineering manager,Remote,24,Software development,9,300000
+Engineering manager,Remote,16,Other,6,110000
+Developer,Hybrid,30,Fintech,6,185000
+Developer,Hybrid,26,Energy,8,115000
+Site reliability engineer,Your choice,9,Retail,6,135000
+Educator or instructor,In-person,27,Education,9,80000
+Academic researcher,Hybrid,10,Scientific research,6,115000
+Developer,Remote,33,Manufacturing,10,110000
+Site reliability engineer,Hybrid,9,Software development,3,160000
+Software engineer,In-person,4,Scientific research,8,195000
+Developer,Hybrid,12,Manufacturing,9,77376
+Student,In-person,3,Transportation or supply chain,7,26500
+Developer,Remote,30,Other,5,135000
+Academic researcher,In-person,9,Scientific research,10,150000
+Developer,Remote,31,Software development,5,200000
+Solutions engineer,Hybrid,10,Government,8,130000
+Developer,Remote,20,Software development,6,195000
+Academic researcher,Hybrid,21,Life sciences or biotechnology,7,210000
+Engineering manager,In-person,30,Retail,2,250000
+Data engineer,Remote,10,Hospitality or travel,2,170000
+Developer,Remote,19,Media or advertising services,9,250000
+Architect,Remote,20,IT services,7,240000
+Developer,Hybrid,10,IT services,8,175000
+Developer,Hybrid,23,IT services,5,160000
+Cybersecurity or InfoSec professional,Hybrid,12,Other,5,152331
+Cybersecurity or InfoSec professional,Remote,10,Education,6,200000
+UX,Hybrid,13,Software development,9,400000
+Site reliability engineer,Hybrid,20,Non-profit or social services,9,109850
+Developer,Hybrid,2,Healthcare,7,40000
+Developer,In-person,12,Software development,8,95000
+Developer,Remote,27,Media or advertising services,7,149687
+Developer,Hybrid,1,Banking/financial services,5,153000
+Developer,Hybrid,20,Other,10,125000
+Developer,Remote,4,Healthcare,5,125000
+Developer,Remote,14,Healthcare,5,110000
+Developer,Remote,14,IT services,8,154000
+Developer,Remote,6,Media or advertising services,3,131000
+Academic researcher,Hybrid,22,Scientific research,8,150000
+Developer,In-person,4,Other,6,83000
+Developer,Your choice,8,Other,7,209000
+Developer,Remote,5,Fintech,6,110000
+System administrator,Hybrid,7,Manufacturing,3,169000
+Data engineer,Remote,27,Government,8,226000
+Cybersecurity or InfoSec professional,Hybrid,9,Government,7,100000
+Developer,Remote,1,Agriculture,2,58000
+Developer,Remote,15,Agriculture,7,117000
+System administrator,Hybrid,35,Manufacturing,5,140000
+Architect,Hybrid,10,Manufacturing,7,185000
+Architect,Remote,22,Energy,7,100000
+Developer,Your choice,1,Energy,0,52000
+Developer,Remote,9,Retail,9,155000
+Developer,Hybrid,1,IT services,7,105000
+Developer,In-person,5,Healthcare,10,110000
+Data or business analyst,Hybrid,33,Transportation or supply chain,7,102000
+System administrator,Hybrid,5,Education,7,83000
+System administrator,Remote,10,Insurance,8,90000
+Developer,Remote,6,Engineering services or applied R&D,8,144000
+Developer,Hybrid,2,Software development,9,120000
+Developer,Hybrid,2,Engineering services or applied R&D,8,200000
+Developer,Remote,6,IT services,7,110000
+Developer,Hybrid,14,Insurance,5,94000
+Architect,Your choice,11,Transportation or supply chain,6,160000
+Academic researcher,Your choice,31,Scientific research,6,207000
+Developer,In-person,40,Government,6,110000
+Engineering manager,Hybrid,12,Broadcasting or publishing,6,210000
+Developer,In-person,4,Mining or construction,9,100000
+Developer,Hybrid,5,Retail,6,95000
+Product manager,Remote,15,Retail,6,220000
+Cloud infrastructure engineer,Remote,25,Healthcare,7,111000
+Developer,Remote,22,IT services,8,200000
+Developer,Remote,19,IT services,6,350000
+Engineering manager,Hybrid,19,Healthcare,3,250000
+Software engineer,Remote,22,Software development,7,200000
+Hardware engineer,Your choice,25,Other,7,600000
+Developer,Your choice,16,IT services,8,136000
+Developer,Remote,5,Healthcare,5,80000
+Developer,Remote,12,IT services,6,250000
+Developer,Remote,8,Healthcare,5,170000
+Developer,In-person,4,Other,4,160000
+Developer,Hybrid,10,Transportation or supply chain,8,200000
+Developer,Hybrid,11,Software development,7,750000
+Developer,Remote,24,IT services,9,120000
+Developer,Hybrid,6,Banking/financial services,5,210000
+Developer,Hybrid,36,Manufacturing,4,109000
+Applied scientist,In-person,7,Scientific research,7,130000
+Developer,Remote,19,Education,8,140000
+AI/ML engineer,In-person,22,Transportation or supply chain,4,110000
+AI/ML engineer,Hybrid,1,Engineering services or applied R&D,8,120000
+Academic researcher,Hybrid,35,Education,8,120000
+Developer,Remote,30,Education,9,105000
+Architect,Hybrid,31,Banking/financial services,9,485000
+Architect,Hybrid,33,Manufacturing,7,205000
+Developer,Remote,14,Scientific research,5,280000
+Software engineer,In-person,25,Government,8,300000
+Developer,In-person,2,Manufacturing,9,60000
+Data engineer,Remote,21,Media or advertising services,9,240000
+Developer,Hybrid,1,Banking/financial services,7,93000
+Developer,Remote,15,Insurance,8,186000
+Developer,Remote,28,Non-profit or social services,8,230000
+Developer,In-person,13,Government,6,150000
+Developer,Hybrid,28,Manufacturing,8,250000
+Developer,Remote,7,Utilities,7,176000
+Developer,Remote,9,IT services,8,281000
+Developer,Hybrid,18,Insurance,4,200000
+Developer,Remote,6,Software development,8,225000
+Developer,In-person,8,Other,4,100000
+Academic researcher,Hybrid,11,Scientific research,8,146000
+AI/ML engineer,In-person,4,Software development,7,200000
+Developer,In-person,7,Manufacturing,5,130000
+Developer,Remote,9,Software development,7,190000
+Site reliability engineer,Remote,18,Life sciences or biotechnology,5,200000
+Developer,Remote,3,Healthcare,8,86500
+Developer,Hybrid,6,Fintech,7,48000
+Engineering manager,Remote,16,Banking/financial services,7,204000
+Developer,Hybrid,9,Healthcare,7,123000
+Developer,Your choice,15,IT services,7,172000
+Engineering manager,Your choice,17,Software development,5,230000
+Developer,Remote,30,Retail,6,270000
+Engineering manager,Hybrid,42,Transportation or supply chain,8,300000
+Developer,Hybrid,20,Software development,7,400000
+Developer,Hybrid,32,IT services,8,140000
+Developer,Hybrid,3,Manufacturing,7,87000
+Developer,Remote,7,Healthcare,5,171000
+Developer,Remote,14,Software development,0,325000
+Developer,Hybrid,32,Banking/financial services,5,127000
+Architect,Remote,21,Insurance,8,135000
+Developer,Hybrid,16,Insurance,10,128000
+Developer,Remote,2,Software development,6,110000
+Student,Hybrid,34,Government,9,194000
+Architect,Remote,30,Transportation or supply chain,6,150000
+Developer,Remote,21,Retail,8,207000
+Engineering manager,Remote,9,Hospitality or travel,9,140000
+Developer,Remote,27,Non-profit or social services,7,230000
+System administrator,Your choice,6,Scientific research,8,103000
+Engineering manager,Your choice,24,Government,9,150000
+Architect,Hybrid,34,Manufacturing,8,200000
+Technical writer or documentation professional,In-person,35,Software development,6,200000
+Senior executive,Hybrid,28,Media or advertising services,4,500000
+Senior executive,Hybrid,30,Energy,8,283000
+Developer,Hybrid,26,Fintech,2,267870
+Developer,Your choice,21,Software development,7,250000
+Developer,Remote,38,Software development,8,103000
+DevOps engineer or professional,Remote,22,Other,10,170000
+Developer,In-person,18,Software development,10,110000
+Developer,Remote,15,Other,8,180000
+Developer,Your choice,20,Software development,5,15000
+Developer,Remote,30,Manufacturing,7,60000
+Developer,Remote,7,IT services,6,270000
+Architect,Remote,42,IT services,8,140000
+Developer,Remote,30,Other,9,140000
+Developer,Hybrid,18,Software development,8,550000
+Developer,In-person,9,IT services,4,350000
+Founder or entrepreneur,Remote,35,IT services,9,140000
+Developer,Hybrid,21,Insurance,5,125000
+Engineering manager,Remote,36,IT services,9,225000
+Developer,Remote,6,Healthcare,2,65000
+Developer,Remote,50,Manufacturing,8,165000
+Data engineer,Remote,8,Life sciences or biotechnology,3,175000
+Developer,In-person,1,Software development,6,90000
+AI/ML engineer,Hybrid,11,Software development,8,215000
+Site reliability engineer,Hybrid,11,Energy,0,160000
+Hardware engineer,In-person,8,Engineering services or applied R&D,3,115000
+Developer,Hybrid,17,IT services,8,108000
+Other,In-person,22,Government,2,113000
+Developer,Hybrid,20,Utilities,8,500000
+Developer,Your choice,30,Insurance,8,190000
+Architect,Remote,18,Non-profit or social services,4,217000
+Product manager,Remote,25,Other,6,188000
+Product manager,Your choice,24,Broadcasting or publishing,9,165000
+Architect,Hybrid,27,Healthcare,8,215000
+Developer,Your choice,1,IT services,4,92000
+Academic researcher,Hybrid,15,Scientific research,8,150000
+Developer,Remote,3,Scientific research,7,140000
+Developer,Hybrid,9,Other,5,150000
+Developer,Remote,28,Other,9,212000
+Developer,In-person,5,IT services,7,36000
+Developer,Hybrid,3,Healthcare,7,70000
+DevOps engineer or professional,Hybrid,4,Engineering services or applied R&D,4,115000
+Software engineer,Remote,13,Non-profit or social services,8,95000
+Developer,Hybrid,13,Broadcasting or publishing,8,126800
+Developer,Remote,12,Insurance,7,140000
+Developer,Remote,22,Utilities,8,200000
+AI/ML engineer,In-person,20,Retail,5,30000
+Architect,Hybrid,26,Other,8,190000
+Architect,In-person,17,Manufacturing,7,210000
+Developer,In-person,2,Government,9,46800
+Developer,Remote,25,Fintech,5,120000
+Developer,In-person,5,Retail,4,95000
+Architect,Remote,18,IT services,8,215000
+Developer,Hybrid,18,Software development,8,450000
+Developer,Hybrid,10,Banking/financial services,4,155000
+Developer,Your choice,17,Other,6,121000
+Solutions engineer,In-person,26,Government,10,145000
+Solutions engineer,Remote,48,Banking/financial services,7,153000
+Educator or instructor,Hybrid,37,Education,9,87000
+Developer,Hybrid,19,Education,8,101000
+Developer,Your choice,2,Life sciences or biotechnology,10,92000
+Developer,In-person,35,Education,4,145000
+Developer,Remote,13,Software development,0,650000
+Developer,In-person,2,Manufacturing,9,200000
+Developer,Hybrid,27,Other,5,350000
+Developer,Remote,8,Transportation or supply chain,3,200000
+Developer,Remote,29,IT services,9,200000
+Developer,Remote,21,Software development,9,230000
+Developer,Remote,40,Banking/financial services,5,157000
+DevOps engineer or professional,Remote,18,Broadcasting or publishing,6,200000
+Support engineer or analyst,In-person,20,Engineering services or applied R&D,9,200000
+Developer,Your choice,34,Scientific research,9,130000
+Developer,Remote,13,Other,7,150000
+Developer,Your choice,15,Software development,5,150000
+Developer,Remote,38,Insurance,2,130000
+Developer,Hybrid,27,Transportation or supply chain,6,150000
+Founder or entrepreneur,Hybrid,12,Software development,8,100000
+Developer,Remote,30,Insurance,8,186267
+Developer,Remote,34,Fintech,4,160000
+Developer,Remote,5,Banking/financial services,1,82500
+Developer,In-person,3,Manufacturing,9,70000
+System administrator,Hybrid,18,Fintech,8,125000
+Architect,Remote,13,Other,6,250000
+Developer,Remote,20,Broadcasting or publishing,7,200000
+Developer,Hybrid,41,Fintech,8,240000
+Support engineer or analyst,Remote,5,Healthcare,8,150000
+Founder or entrepreneur,In-person,10,Scientific research,9,205000
+Architect,Your choice,16,IT services,7,225000
+Developer,Remote,26,Retail,1,150000
+Developer,Hybrid,27,Fintech,4,150000
+Developer,Hybrid,6,Software development,7,250000
+Developer,In-person,2,Government,9,46800
+Developer,Hybrid,6,Education,6,110000
+Developer,Hybrid,6,Insurance,5,105000
+Developer,Hybrid,20,Retail,2,130000
+DevOps engineer or professional,Remote,5,Other,3,95000
+Developer,Hybrid,15,Transportation or supply chain,8,296000
+Educator or instructor,In-person,45,Education,9,100000
+Developer,Hybrid,20,Software development,10,250000
+Developer,Remote,9,Software development,7,125000
+Engineering manager,Remote,10,Media or advertising services,9,275000
+Engineering manager,In-person,13,Manufacturing,9,235000
+Developer,Remote,3,Other,2,40000
+Developer,Remote,28,Government,4,150000
+Architect,Remote,14,Healthcare,7,170000
+Data or business analyst,In-person,5,Banking/financial services,10,97000
+Developer,In-person,5,Healthcare,1,56000
+Developer,Hybrid,15,Scientific research,7,198000
+Architect,In-person,2,Scientific research,8,170000
+Developer,Remote,10,Scientific research,7,111000
+Engineering manager,In-person,5,Government,7,210000
+Academic researcher,In-person,34,Life sciences or biotechnology,8,160000
+Architect,Hybrid,7,IT services,9,185000
+Developer,Remote,6,Banking/financial services,3,120000
+Architect,Hybrid,35,Government,5,220000
+Developer,In-person,7,Media or advertising services,0,200000
+Developer,Hybrid,20,Manufacturing,9,150000
+Support engineer or analyst,Your choice,2,Software development,7,125000
+Developer,Remote,15,Software development,8,140000
+Developer,Hybrid,12,Healthcare,4,350000
+Software engineer,Hybrid,9,Utilities,3,430000
+Data or business analyst,Hybrid,7,IT services,6,53000
+Hardware engineer,Hybrid,3,Other,8,60000
+Applied scientist,Your choice,6,Scientific research,4,125000
+System administrator,Remote,22,Non-profit or social services,8,85000
+Developer,Remote,7,Media or advertising services,5,93000
+Developer,In-person,4,Banking/financial services,10,150000
+Architect,Remote,26,Retail,9,190000
+Applied scientist,Hybrid,12,Scientific research,7,160000
+Engineering manager,Remote,12,Banking/financial services,7,131000
+Data engineer,Hybrid,21,Retail,8,158251
+Developer,Remote,14,Broadcasting or publishing,6,175000
+Architect,Remote,14,Software development,9,188000
+Engineering manager,Remote,19,Retail,4,183000
+Architect,Your choice,21,Software development,5,233000
+Architect,Remote,37,Transportation or supply chain,6,130000
+Developer,Remote,8,Government,6,107000
+Developer,Your choice,15,Software development,7,128000
+Developer,Hybrid,6,Engineering services or applied R&D,8,300000
+DevOps engineer or professional,Remote,25,Transportation or supply chain,7,18000
+Developer,Remote,22,Government,3,110000
+Developer,Remote,13,Fintech,9,230000
+Data or business analyst,Remote,32,Other,9,250000
+Engineering manager,Your choice,14,Education,8,134000
+Developer,Hybrid,9,Education,7,72000
+Data or business analyst,Hybrid,14,Fintech,5,98000
+Engineering manager,Hybrid,28,Manufacturing,9,300000
+Developer,In-person,11,Other,10,230000
+Cybersecurity or InfoSec professional,Hybrid,1,Retail,4,116000
+Developer,Hybrid,1,Government,3,86000
+Developer,Remote,13,Government,8,155000
+Data engineer,Remote,26,Banking/financial services,9,110000
+Developer,In-person,4,Software development,8,130000
+Developer,Remote,22,Software development,8,210000
+DevOps engineer or professional,Remote,26,Government,5,150000
+DevOps engineer or professional,Remote,36,IT services,10,400000
+Developer,Hybrid,13,Fintech,9,260000
+Senior executive,In-person,14,Healthcare,9,500000
+Developer,Remote,15,IT services,3,210000
+Data engineer,Remote,14,Healthcare,3,177000
+Developer,Remote,19,Other,10,142392
+Site reliability engineer,Remote,30,IT services,8,425000
+AI/ML engineer,Hybrid,15,Scientific research,10,200000
+Solutions engineer,Remote,14,Software development,1,400000
+Applied scientist,Your choice,36,Engineering services or applied R&D,10,140000
+Developer,Remote,10,Software development,5,170000
+DevOps engineer or professional,Your choice,5,Software development,7,290000
+Developer,Remote,11,Retail,8,320000
+Developer,Remote,22,IT services,6,60000
+Developer,Remote,7,Healthcare,8,104000
+DevOps engineer or professional,Remote,18,Other,7,180000
+Developer,Hybrid,4,Energy,9,112335
+Developer,In-person,6,Software development,6,124000
+Developer,Hybrid,18,Engineering services or applied R&D,10,150000
+Developer,Remote,9,Retail,6,115000
+Data or business analyst,In-person,8,Government,5,85000
+Product manager,Remote,30,Software development,7,365000
+Developer,Hybrid,20,Banking/financial services,4,135000
+AI/ML engineer,In-person,7,Banking/financial services,4,250000
+Solutions engineer,Remote,17,Banking/financial services,8,150000
+Developer,Hybrid,4,Education,9,87500
+Developer,Remote,35,Government,6,155000
+DevOps engineer or professional,Hybrid,6,Government,8,300000
+Engineering manager,Remote,29,Other,8,150000
+Developer,Hybrid,40,Transportation or supply chain,8,175000
+Developer,Hybrid,9,Software development,9,150000
+Developer,Hybrid,25,Software development,9,350000
+Engineering manager,Hybrid,45,Media or advertising services,7,150000
+Developer,In-person,24,Retail,6,198000
+Developer,Remote,12,Software development,4,198500
+Engineering manager,Remote,20,Banking/financial services,7,200000
+Developer,Remote,18,Healthcare,0,160000
+Developer,Your choice,14,Engineering services or applied R&D,10,300000
+Developer,Your choice,34,Broadcasting or publishing,8,190000
+Data engineer,Hybrid,5,Healthcare,8,103000
+Architect,Remote,26,Software development,6,180000
+Developer,In-person,4,Government,6,200000
+Developer,Remote,7,Fintech,4,97000
+Developer,Hybrid,15,Software development,6,350000
+Site reliability engineer,Hybrid,28,Banking/financial services,5,200000
+Developer,Hybrid,45,Banking/financial services,10,250000
+Developer,In-person,5,Broadcasting or publishing,6,60000
+Developer,Remote,9,IT services,5,500000
+Developer,Hybrid,9,Government,8,100000
+Architect,Remote,33,Fintech,6,175000
+Developer,Hybrid,8,Insurance,1,103000
+Developer,Remote,12,IT services,6,200000
+Developer,Hybrid,20,Banking/financial services,8,250000
+Developer,Remote,31,Manufacturing,6,112000
+Engineering manager,Remote,21,Other,4,215000
+Applied scientist,In-person,1,Software development,7,300000
+Developer,Remote,13,Broadcasting or publishing,7,260000
+Developer,Your choice,4,Government,7,113000
+Developer,Hybrid,33,Non-profit or social services,8,192000
+Developer,Hybrid,4,Utilities,6,100000
+Other,Hybrid,24,Banking/financial services,0,120000
+Developer,In-person,1,IT services,8,140000
+Developer,Remote,1,Software development,7,125000
+Developer,Remote,9,Education,5,400000
+Technical writer or documentation professional,Hybrid,5,Mining or construction,3,90000
+Developer,Remote,13,Government,0,185000
+Architect,Hybrid,13,Energy,5,250000
+Developer,Hybrid,15,Utilities,5,315000
+Developer,Remote,10,Other,8,165000
+Developer,In-person,15,IT services,2,115000
+DevOps engineer or professional,Hybrid,33,Government,7,161000
+Developer,Remote,16,Healthcare,3,150000
+Engineering manager,In-person,6,Software development,6,135000
+Data or business analyst,In-person,7,Life sciences or biotechnology,10,133000
+Developer,Remote,20,Energy,6,195000
+Developer,Remote,38,Media or advertising services,6,220000
+Developer,Remote,19,Insurance,9,200000
+Developer,Hybrid,23,Government,7,102000
+Developer,Hybrid,15,Software development,8,85000
+Architect,Remote,52,Life sciences or biotechnology,7,185000
+Developer,Remote,10,Education,1,70000
+Developer,Remote,25,Software development,5,250000
+Developer,Remote,10,IT services,4,300000
+Developer,Your choice,20,Software development,1,180000
+Developer,Remote,23,Education,8,102000
+Developer advocate or developer relations professional,Remote,25,Software development,5,280000
+Developer,Remote,30,Other,3,200000
+Developer,Remote,30,Retail,7,150000
+Data engineer,Remote,10,Banking/financial services,5,165000
+Developer,Hybrid,17,Software development,8,300000
+Developer,Hybrid,6,Scientific research,9,130000
+Senior executive,Remote,22,Fintech,8,280000
+Developer,Hybrid,38,Healthcare,1,150000
+Developer,Remote,28,IT services,8,144000
+Developer,Hybrid,36,Utilities,6,200000
+Developer,Remote,13,Other,9,200000
+Developer,Hybrid,18,Education,3,96600
+Product manager,Remote,30,Software development,2,450000
+Senior executive,Your choice,20,Mining or construction,9,100000
+Developer,In-person,13,Manufacturing,7,193000
+Developer,Remote,47,Retail,7,110000
+Developer,Remote,25,Other,8,320000
+Senior executive,Your choice,28,IT services,8,180000
+Developer,Remote,22,Software development,7,203000
+Solutions engineer,Hybrid,6,Utilities,3,110000
+Developer,Remote,10,Banking/financial services,7,126000
+Developer,Remote,10,IT services,10,140000
+Developer,Remote,10,Other,10,105000
+Developer,Remote,41,Media or advertising services,9,189000
+Developer,Remote,30,Retail,8,102000
+Support engineer or analyst,In-person,44,Utilities,8,120000
+Developer,Remote,36,Other,5,250000
+Architect,Remote,30,Retail,6,125000
+Academic researcher,Hybrid,10,Government,6,107000
+Software engineer,Hybrid,2,Other,8,200000
+Software engineer,In-person,6,Manufacturing,8,62400
+DevOps engineer or professional,Remote,8,Healthcare,9,197000
+Developer,Remote,23,Software development,5,200000
+Developer,In-person,17,Broadcasting or publishing,9,138777
+Developer,Hybrid,40,Other,0,140000
+Developer,Remote,8,Engineering services or applied R&D,7,125000
+Developer,In-person,11,Retail,7,135000
+Applied scientist,Hybrid,24,Other,8,315000
+Developer,Remote,30,Software development,8,160000
+Developer,Remote,9,Software development,6,110000
+Engineering manager,Hybrid,20,Education,6,110000
+Developer,Remote,25,Retail,6,200000
+DevOps engineer or professional,Remote,6,Manufacturing,7,108000
+Developer,Remote,26,Software development,8,160000
+Developer,In-person,39,Manufacturing,8,185000
+Developer,Hybrid,28,Government,9,145000
+Data or business analyst,Hybrid,4,Education,10,72000
+Product manager,Remote,20,Software development,3,170000
+Developer,Hybrid,50,Manufacturing,10,50000
+Developer,Hybrid,1,Software development,10,146000
+Developer,Hybrid,2,Manufacturing,3,57200
+Architect,Remote,25,IT services,0,135000
+Developer,Hybrid,5,Software development,6,143000
+Other,Your choice,14,Non-profit or social services,3,90000
+Developer,Hybrid,8,Retail,5,120000
+Developer,Remote,15,Healthcare,7,160000
+Developer,In-person,26,Banking/financial services,2,135000
+Developer,Remote,27,Engineering services or applied R&D,2,185000
+Developer,Remote,20,Software development,3,100000
+Developer,Hybrid,14,Manufacturing,9,114000
+Architect,Hybrid,18,Fintech,10,400000
+Data engineer,Remote,12,IT services,7,150000
+Developer,In-person,1,Education,10,13221
+Cloud infrastructure engineer,Your choice,1,Fintech,8,200000
+Developer,Remote,8,Software development,2,100963
+Developer,Hybrid,30,IT services,8,170000
+Developer,In-person,8,Manufacturing,7,200000
+Developer,In-person,2,Utilities,6,147000
+Developer,Remote,13,Insurance,2,148000
+Architect,Hybrid,25,Other,9,340000
+Engineering manager,Remote,17,Engineering services or applied R&D,7,180000
+Developer,Remote,20,Retail,8,180000
+Architect,Remote,26,Software development,8,220000
+Developer,Your choice,12,IT services,9,180000
+Developer,Remote,38,Transportation or supply chain,7,185000
+Architect,Hybrid,19,Banking/financial services,6,240000
+Solutions engineer,In-person,20,Hospitality or travel,3,51500
+Developer,Remote,34,Fintech,4,168000
+Developer,Remote,15,Software development,4,350000
+Developer,Hybrid,17,Education,5,11800
+Developer,Remote,12,Education,9,62400
+Architect,Remote,30,Education,7,275000
+Developer,In-person,20,Transportation or supply chain,7,1000000
+DevOps engineer or professional,Remote,9,Insurance,8,150000
+Developer,Remote,15,Healthcare,8,230000
+Developer,Remote,20,Healthcare,6,185000
+Cloud infrastructure engineer,Remote,12,Other,8,250000
+Developer,Remote,18,Hospitality or travel,6,325000
+Developer,Remote,15,Software development,6,285000
+Developer,Hybrid,20,Healthcare,5,180000
+Developer,Remote,6,Software development,8,220000
+Developer,Hybrid,36,Healthcare,4,124000
+Developer,Remote,6,Scientific research,5,92000
+Cybersecurity or InfoSec professional,Hybrid,14,Software development,9,200000
+Developer,Hybrid,20,Insurance,7,187000
+Applied scientist,In-person,4,Scientific research,6,146625
+Developer,Remote,19,Other,9,156000
+Developer,Hybrid,20,Retail,7,103000
+Marketing/Sales professional,Remote,19,Software development,8,374000
+Developer,Hybrid,20,Banking/financial services,6,112000
+Marketing/Sales professional,Remote,8,Education,7,163704
+Developer,Hybrid,15,Other,7,130000
+Data engineer,Hybrid,19,Non-profit or social services,8,115000
+Developer,Hybrid,15,IT services,7,113511
+Engineering manager,Hybrid,23,Agriculture,3,175000
+Developer,Remote,21,Insurance,2,189800
+Support engineer or analyst,Remote,18,Life sciences or biotechnology,6,150000
+Developer,Hybrid,8,IT services,3,87000
+Solutions engineer,Remote,14,Software development,6,340000
+Developer,Hybrid,30,Other,10,180000
+Architect,Remote,20,Fintech,4,185000
+Senior executive,Remote,14,Software development,10,850000
+Solutions engineer,In-person,40,IT services,7,230000
+Developer,Hybrid,28,Software development,3,194000
+Developer,Remote,9,Insurance,7,250000
+Developer,Remote,7,Fintech,8,205000
+Cloud infrastructure engineer,Hybrid,21,Software development,8,400000
+Architect,Remote,22,Transportation or supply chain,9,160000
+Data scientist,Hybrid,12,Government,7,131000
+Developer,Remote,10,Government,9,127000
+Developer,In-person,12,Fintech,6,165000
+Developer,Hybrid,6,Transportation or supply chain,5,92000
+Developer,Hybrid,20,Media or advertising services,8,250000
+Developer,Remote,27,Software development,6,100000
+Developer,Remote,18,Software development,8,192000
+Developer,Hybrid,47,Banking/financial services,9,250000
+Developer,Remote,10,Retail,5,180000
+Project manager,Remote,25,Other,7,200000
+Developer,Remote,8,Healthcare,6,75000
+Data or business analyst,Hybrid,10,Banking/financial services,10,45000
+Developer,In-person,2,Fintech,4,160000
+Developer,Hybrid,7,Software development,7,250000
+Engineering manager,Hybrid,29,Banking/financial services,9,174000
+Developer,Remote,16,Education,9,165000
+Developer,Hybrid,14,Other,9,140000
+Software engineer,Remote,32,Government,5,230000
+Architect,Remote,33,Transportation or supply chain,8,160000
+Developer,Hybrid,9,Transportation or supply chain,7,125000
+Developer,Hybrid,5,Media or advertising services,5,62500
+Site reliability engineer,Remote,15,Software development,7,15000
+Engineering manager,Remote,26,Insurance,10,250000
+Developer,In-person,2,Software development,10,60000
+Developer,Remote,21,Government,10,1000000
+Engineering manager,Hybrid,10,Software development,9,305000
+Developer,Hybrid,11,Other,4,100000
+Developer,Remote,10,Retail,10,190000
+Developer,Hybrid,16,Software development,7,500000
+Engineering manager,Remote,18,Software development,8,285000
+Academic researcher,Hybrid,10,Life sciences or biotechnology,6,107000
+Developer,Remote,41,Manufacturing,5,80000
+Developer,Remote,9,Banking/financial services,10,185000
+Developer,Remote,16,Fintech,6,165000
+Architect,Remote,28,Software development,4,161000
+Developer,Your choice,28,Transportation or supply chain,3,140000
+Developer,Remote,15,IT services,9,95000
+Developer,In-person,3,Manufacturing,8,100000
+System administrator,Hybrid,30,Non-profit or social services,8,97000
+Data engineer,Hybrid,16,Software development,9,250000
+Developer,Remote,11,Healthcare,7,224000
+Developer advocate or developer relations professional,Remote,18,IT services,8,160000
+Senior executive,Remote,24,Manufacturing,8,175000
+Developer,In-person,11,Retail,6,275000
+Developer,Hybrid,19,IT services,7,174000
+Cloud infrastructure engineer,Remote,9,Government,7,150000
+Developer,Remote,35,Retail,6,120000
+Developer,Remote,23,IT services,7,160000
+Developer,Remote,13,Insurance,9,185000
+Architect,Remote,21,Healthcare,5,350000
+Developer,In-person,13,Software development,6,400000
+Developer,Remote,20,Software development,7,180000
+Architect,Remote,17,Fintech,4,200000
+Developer,Hybrid,17,Education,10,139234
+Developer,Hybrid,15,Other,2,215000
+Architect,Remote,41,Healthcare,6,155000
+Architect,Your choice,21,Software development,8,170000
+Support engineer or analyst,Hybrid,7,Life sciences or biotechnology,5,60000
+AI/ML engineer,In-person,2,Other,10,120000
+Developer,Hybrid,35,Agriculture,9,200000
+Developer,Remote,5,Retail,8,176000
+Developer,Hybrid,34,Banking/financial services,7,140000
+Developer,Remote,40,Education,8,100000
+Architect,Remote,15,Education,10,350000
+Developer,Hybrid,34,Government,2,140000
+Senior executive,Your choice,17,Software development,10,325000
+Developer,Hybrid,5,Media or advertising services,5,300000
+Developer,Remote,12,Healthcare,8,150000
+Developer,In-person,16,Manufacturing,4,150000
+Developer,Your choice,20,Life sciences or biotechnology,9,200000
+Developer,Remote,6,Healthcare,7,315000
+Developer,Remote,6,Other,6,151000
+Developer,Remote,26,Software development,8,200000
+Developer,Hybrid,24,Manufacturing,10,172496
+Site reliability engineer,In-person,4,Fintech,3,100000
+Developer,Your choice,15,Education,8,205000
+Developer,Hybrid,13,Healthcare,7,170000

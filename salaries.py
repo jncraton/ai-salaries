@@ -14,12 +14,12 @@ with open("salaries.csv") as csvfile:
 
     # 1. The total number of salaries in the file (remember not to include the header row)
 
-    # 2. The average (mean) salary for entry-level positions
+    # 2. The average (mean) salary for all positions
 
-    # 3. The average (mean) salary for entry-level positions with a Data Scientist Title
+    # 3. The average (mean) salary for Data scientist title
 
     # 4. The highest salary for a fully remote, entry-level position
 
-    # 5. The average (mean) salary for all mid-level positions
+    # 5. The average (mean) salary for all mid-level positions (at least 10 years of experience)
 
     # 6. A descriptive statistic of your choice calculated from this dataset
