@@ -1,7 +1,7 @@
 AI Salaries
 ===========
 
-This project provides and exploration of salaries in AI, ML, and data science fields. Salary data comes from [ai-jobs.net](https://ai-jobs.net/).
+This project provides and exploration of salaries in the Software Engineering, AI, ML, and data science fields. Salary data comes from the [Stack Overflow Developer Survey](https://github.com/StackExchange/Survey/tree/main/packages/archive/2026).
 
 Learning Objectives
 -------------------
@@ -15,53 +15,15 @@ After completing this assignment, students will be able to:
 Data
 ----
 
-The following data dictionary is provided to understand the meaning of the underlying data. The sample data provided with this assignment includes only a sample of full-time, entry-level and mid-level jobs for 2024 in the United States.
+A small subset of simplified data columns from the Stack Overflow Developer Survey is provided in `salaries.csv`. A desciption of the full dataset is [provided by StackExchange](https://github.com/StackExchange/Survey/tree/main/packages/archive/2026).
 
-```
-0. work_year
-    The year the salary was paid.
+Here is a small sample from salaries.csv:
 
-1. experience_level
-    The experience level in the job during the year with the following possible values:
-
-    EN        Entry-level / Junior
-    MI        Mid-level / Intermediate
-    SE        Senior-level / Expert
-    EX        Executive-level / Director
-
-2. employment_type
-    The type of employement for the role:
-
-    PT        Part-time
-    FT        Full-time
-    CT        Contract
-    FL        Freelance
-
-3. job_title
-    The role worked in during the year.
-
-4. salary_in_usd
-    The salary in USD (FX rate divided by avg. USD rate of respective year) via statistical data from the BIS and central banks.
-
-5. employee_residence
-    Employee's primary country of residence in during the work year as an ISO 3166 country code.
-
-6. remote_ratio
-    The overall amount of work done remotely, possible values are as follows:
-
-    0         No remote work (less than 20%)
-    50        Partially remote/hybird
-    100       Fully remote (more than 80%)
-
-7. company_location
-    The country of the employer's main office or contracting branch as an ISO 3166 country code.
-
-8. company_size
-    The average number of people that worked for the company during the year:
-
-    S        less than 50 employees (small)
-    M        50 to 250 employees (medium)
-    L        more than 250 employees (large)
+```csv
+Role,WorkSetting,WorkExp,Industry,JobSat,Compensation
+Developer,Remote,26,Government,9,195000
+Architect,Remote,28,Retail,8,184000
+Software engineer,Remote,16,IT services,4,300000
 ```
 
 CSV Module
