@@ -1,7 +1,7 @@
 AI Salaries
 ===========
 
-This project provides and exploration of salaries in the Software Engineering, AI, ML, and data science fields. Salary data comes from the [Stack Overflow Developer Survey](https://github.com/StackExchange/Survey/tree/main/packages/archive/2026).
+This project provides an exploration of salaries in the Software Engineering, AI, ML, and data science fields. Salary data comes from the [Stack Overflow Developer Survey](https://github.com/StackExchange/Survey/tree/main/packages/archive/2026).
 
 Learning Objectives
 -------------------
