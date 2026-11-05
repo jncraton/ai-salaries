@@ -7,3 +7,4 @@ salaries.csv: survey_results_public.csv
 	python3 convert.py
 
 clean:
+	rm -f survey_results_public.csv
