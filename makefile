@@ -6,5 +6,8 @@ survey_results_public.csv:
 salaries.csv: survey_results_public.csv
 	python3 convert.py
 
+format:
+	uvx black .
+
 clean:
 	rm -f survey_results_public.csv
