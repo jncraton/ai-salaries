@@ -43,5 +43,3 @@ df["Role"] = df["Role"].str.replace(r",.*$", "", regex=True).str.strip()
 df["Industry"] = df["Industry"].str.replace(r",.*$", "", regex=True).str.strip()
 
 df.to_csv("salaries.csv", index=False)
-
-print(df["Role"].unique())
